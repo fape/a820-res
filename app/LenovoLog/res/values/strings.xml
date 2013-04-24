@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileLog</string>
+    <string name="LogPosition">Log Position</string>
+    <string name="phone">Phone</string>
+    <string name="sdcard">SD Card</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="propfail">No property, no nothing</string>
+    <string name="radio">system</string>
+    <string name="qxdmstarted">QXDM log is running</string>
+    <string name="netlogstarted">Net log is running</string>
+    <string name="status">MobileLog Status</string>
+    <string name="started">MobileLog is running</string>
+    <string name="qxdm">ModemLog</string>
+    <string name="qxdmLogPosition">/storage/sdcard0/logs/</string>
+    <string name="qxdmhint">Please search \"QxdmToSd\" in http://xmswid/moin for instructions</string>
+    <string name="logSizeLimit">Log Size Limit (M Bytes)</string>
+    <string name="defaultSizeLimit">200</string>
+    <string name="availableSpace">Available Space</string>
+    <string name="mb">MB</string>
+    <string name="nosdcard">Please insert SD card</string>
+    <string name="logconfig">Log config</string>
+    <string name="OperationFailed">Operation Failed</string>
+    <string name="netLogPosition">/storage/sdcard0/logs/</string>
+    <string name="netlog">NetLog</string>
+</resources>

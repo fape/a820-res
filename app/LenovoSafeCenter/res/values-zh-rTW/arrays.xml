@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>從通話記錄導入</item>
+        <item>從訊息記錄導入</item>
+        <item>從聯絡人導入</item>
+        <item>手動添加</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>無提醒</item>
+        <item>通知欄提醒</item>
+        <item>通知欄提醒+提示音</item>
+        <item>通知欄提醒+振動</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>正常接聽</item>
+        <item>來電掛斷</item>
+        <item>來電掛斷並回復訊息</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>無提醒</item>
+        <item>通知欄提醒</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>編輯郵箱</item>
+        <item>立即備份</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>刪除</item>
+        <item>修改</item>
+        <item>發送資訊</item>
+        <item>呼叫</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>信息和來電</item>
+        <item>來電</item>
+        <item>信息</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>僅接聽聯絡人</item>
+        <item>僅接聽白名單</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>從來電記錄導入</item>
+        <item>從訊息記錄導入</item>
+        <item>從聯絡人導入</item>
+        <item>手動添加</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>智能攔截</item>
+        <item>只攔截黑名單</item>
+        <item>只接受通訊錄</item>
+        <item>只接受白名單</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>從通話記錄導入</item>
+        <item>從訊息列表導入</item>
+        <item>從聯絡人中導入</item>
+        <item>手動添加</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>解除此黑名單</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>從通話記錄添加</item>
+        <item>從聯絡人中添加</item>
+        <item>手動添加</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>從訊息列表添加</item>
+        <item>從聯絡人中添加</item>
+        <item>手動添加</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>解除此黑名單</item>
+        <item>舉報</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>呼叫</item>
+        <item>發訊息</item>
+        <item>解除此白名單</item>
+    </string-array>
+    <string-array name="scan_health_behavior">
+        <item>廣告攔截</item>
+        <item>通訊錄安全備份</item>
+        <item>檢查開機啟動的應用</item>
+        <item>內部存儲空間低於20%</item>
+        <item>檢查正在運行的應用</item>
+        <item>掃描手機緩存</item>
+        <item>吸費剋星</item>
+        <item>檢查後臺發送訊息的程式</item>
+        <item>隱私保護</item>
+        <item>檢查讀取隱私資訊的程式</item>
+        <item>騷擾攔截</item>
+        <item>流量監控</item>
+        <item>病毒即時監控</item>
+        <item>手機防盜</item>
+        <item>網銀網購即時保護</item>
+        <item>密碼輸入保護</item>
+        <item>未設置流量套餐</item>
+        <item>病毒庫版本</item>
+        <item>掃描病毒</item>
+    </string-array>
+    <string-array name="optimization_health_behavior">
+        <item>開啟廣告攔截</item>
+        <item>通訊錄安全備份</item>
+        <item>開機加速</item>
+        <item>內存清理</item>
+        <item>結束正在運行應用</item>
+        <item>清理緩存</item>
+        <item>開啟吸費剋星</item>
+        <item>全部禁止後臺發送訊息的程式</item>
+        <item>開啟隱私保護</item>
+        <item>全部禁止讀取隱私資訊的程式</item>
+        <item>開啟騷擾攔截</item>
+        <item>流量監控</item>
+        <item>病毒即時監控</item>
+        <item>開啟手機防盜</item>
+        <item>開啟網銀網購即時保護</item>
+        <item>開啟密碼輸入保護</item>
+        <item>已設置流量套餐</item>
+        <item>更新病毒庫</item>
+        <item>查殺病毒</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>我小學的班主任叫什麼名字?</item>
+        <item>我最喜歡吃的水果是什麼?</item>
+        <item>我爸爸的生日是哪一天?</item>
+        <item>我最喜歡聽的歌曲的名字是什麼?</item>
+        <item>我的寵物的名字叫什麼?</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>每10分鐘</item>
+        <item>每20分鐘</item>
+        <item>每30分鐘</item>
+        <item>每1小時</item>
+        <item>每2小時</item>
+        <item>每3小時</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="updatevirus_mode">
+        <item>手動更新</item>
+        <item>每天</item>
+        <item>每週</item>
+    </string-array>
+</resources>

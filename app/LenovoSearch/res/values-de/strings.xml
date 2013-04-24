@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suche</string>
+    <string name="search_widget">Suche</string>
+    <string name="remove_from_history">Aus Suchverlauf entfernen</string>
+    <string name="remove_from_history_failed">Entfernen des Artikels aus Verlauf nicht möglich</string>
+    <string name="corpus_selection_heading">Durchsuchen</string>
+    <string name="corpus_label_global">Alle</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Websuche, Lesezeichen und Browserverlauf</string>
+    <string name="corpus_label_apps">Apps</string>
+    <string name="corpus_description_apps">Namen der installierten Apps</string>
+    <string name="corpus_hint_apps">Apps durchsuchen</string>
+    <string name="menu_settings">Sucheinstellungen</string>
+    <string name="search_settings">Sucheinstellungen</string>
+    <string name="google_settings_category_title">Google-Suche</string>
+    <string name="device_settings_category_title">Verknüpfungen löschen</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Durchsuchbare Elemente</string>
+    <string name="search_sources_summary">Auswahl für die Suche auf dem Telefon</string>
+    <string name="clear_shortcuts">Verknüpfungen löschen</string>
+    <string name="clear_shortcuts_summary">Verknüpfungen mit zuletzt ausgewählten Suchvorschlägen löschen</string>
+    <string name="clear_shortcuts_prompt">"Hiermit werden alle Verknüpfungen mit zuletzt ausgewählten Suchvorschlägen gelöscht.
+
+(Löschen Sie Ihren Browserverlauf über die Browsereinstellungen.)"</string>
+    <string name="clear_shortcuts_agree">Verknüpfungen löschen</string>
+    <string name="clear_shortcuts_disagree">Verknüpfungen nicht löschen</string>
+    <string name="menu_help">Hilfe</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Google-Suche</string>
+    <string name="google_search_hint">Google-Suche</string>
+    <string name="google_search_description">Google-Suchvorschläge</string>
+    <string name="voice_search_hint_title">Sagen Sie Folgendes:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+</resources>

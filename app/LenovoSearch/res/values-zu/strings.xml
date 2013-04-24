@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sesha</string>
+    <string name="search_widget">Sesha</string>
+    <string name="remove_from_history">Susa emlandweni wosesho</string>
+    <string name="remove_from_history_failed">Yehlulekile ukusuza into kumlando</string>
+    <string name="corpus_selection_heading">Sesha</string>
+    <string name="corpus_label_global">Konke</string>
+    <string name="corpus_label_web">Iwebhu</string>
+    <string name="corpus_description_web">Ukusesha ngeWebhu, amabhukimakhi nomlando wesiphequluli</string>
+    <string name="corpus_label_apps">Izinhlelo Zokusebenza</string>
+    <string name="corpus_description_apps">Amagama ezinhlelo zokusebenza ezisanda kufakwa</string>
+    <string name="corpus_hint_apps">Sesha Izinhlelo Zokusebenza</string>
+    <string name="menu_settings">Izilungiselelo zokusesha</string>
+    <string name="search_settings">Izilungiselelo Zokusesha</string>
+    <string name="google_settings_category_title">Ukusesha nge-Google</string>
+    <string name="device_settings_category_title">Sula izinqamuleli</string>
+    <string name="system_search_category_title">Ifoni</string>
+    <string name="search_sources">Izintwana ezicingekayo</string>
+    <string name="search_sources_summary">Khetha ukuthi useshe ini efonini</string>
+    <string name="clear_shortcuts">Sula izinqamuleli</string>
+    <string name="clear_shortcuts_summary">Sula izinqamuleli kokusikiselwayo kokuseshanda kukhethwa</string>
+    <string name="clear_shortcuts_prompt">"Lokhu kuzosula zonke izinqamuleli zokusikiselwayo kokucinga okusanda kukhethwa. 
+
+(Ukwesula umlando wakho Wesiphequluli, sebenzisa izilungiselelo Zesiphequluli.)"</string>
+    <string name="clear_shortcuts_agree">Sula izinqamuleli</string>
+    <string name="clear_shortcuts_disagree">Ungasuli izinqamuleli</string>
+    <string name="menu_help">Usizo</string>
+    <string name="google_search_label">I-Google</string>
+    <string name="google_app_label">Ukusesha nge-Google</string>
+    <string name="google_search_hint">Ukusesha nge-Google</string>
+    <string name="google_search_description">Iziphakamiso zesesho lwe-Google</string>
+    <string name="voice_search_hint_title">Zama ukuthi:</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+</resources>

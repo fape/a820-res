@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>อเมริกา</item>
+        <item>ยุโรป</item>
+        <item>แอฟริกา</item>
+        <item>เอเชีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>แปซิฟิก</item>
+        <item>ทั้งหมด</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>การเตือนนี้ตั้งไว้น้อยกว่า 1 นาที จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %1$s จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %2$s จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %1$s และ %2$s จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %3$s จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %1$s และ %3$s จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %2$s และ %3$s จากเวลาขณะนี้</item>
+        <item>การเตือนนี้ตั้งไว้ %1$s&amp;lt;/xliff:g>, &amp;lt;xliff:g id=HOURS>%2$s, และ %3$s จากเวลาขณะนี้</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+    </string-array>
+    <string-array name="snooze_times_entries">
+        <item>1 ครั้ง</item>
+        <item>3 ครั้ง</item>
+        <item>5 ครั้ง</item>
+        <item>10 ครั้ง</item>
+        <item>ตลอดไป</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>ปิด</item>
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ไม่</item>
+        <item>เลื่อนเวลาเตือน</item>
+        <item>หยุดเตือน</item>
+    </string-array>
+</resources>

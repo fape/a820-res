@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Søk</string>
+    <string name="search_widget">Søk</string>
+    <string name="remove_from_history">Fjern fra søkelogg</string>
+    <string name="remove_from_history_failed">Kunne ikke fjerne elementet fra loggen</string>
+    <string name="corpus_selection_heading">Søk</string>
+    <string name="corpus_label_global">Alle</string>
+    <string name="corpus_label_web">Internett</string>
+    <string name="corpus_description_web">Nettsøk, bokmerker og nettleserlogg</string>
+    <string name="corpus_label_apps">Apper</string>
+    <string name="corpus_description_apps">Navn på installerte apper</string>
+    <string name="corpus_hint_apps">Søkeprogrammer</string>
+    <string name="menu_settings">Innstillinger for søk</string>
+    <string name="search_settings">Innstillinger for søk</string>
+    <string name="google_settings_category_title">Google Søk</string>
+    <string name="device_settings_category_title">Fjern snarveier</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Søkbare elementer</string>
+    <string name="search_sources_summary">Velg hva du vil søke etter på telefonen</string>
+    <string name="clear_shortcuts">Fjern snarveier</string>
+    <string name="clear_shortcuts_summary">Fjern snarveier til nylig valgte søkeforslag</string>
+    <string name="clear_shortcuts_prompt">"Dette fjerner alle snarveier til nylig valgte søkeforslag.
+
+(Hvis du vil slette nettleserloggen, bruker du innstillingene i nettleseren)."</string>
+    <string name="clear_shortcuts_agree">Fjern snarveier</string>
+    <string name="clear_shortcuts_disagree">Ikke fjern snarveier</string>
+    <string name="menu_help">Hjelp</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Google Søk</string>
+    <string name="google_search_hint">Google Søk</string>
+    <string name="google_search_description">Google-søkeforslag</string>
+    <string name="voice_search_hint_title">Prøv å si:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

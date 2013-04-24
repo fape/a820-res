@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="factory_wipe_data">工厂方式恢复出厂设置</string>
+    <string name="factory_wipe_data_warning">按确定键将清空所有用户数据,将手机恢复到出厂状态(包括内置SD卡)，但保留已安装至手机中的应用，强烈建议普通用户不要使用，以免丢失手机中的数据</string>
+    <string name="factory_wipe_data_cancel">取消</string>
+    <string name="sdcard_not_found">恢复失败</string>
+    <string name="sdcard_not_found_tip">该功能需要SD卡的支持，请确保已插入可用的SD卡</string>
+    <string name="sdcard_out_of_space">SD卡可用空间不足</string>
+    <string name="sdcard_out_of_space_tip">SD剩余%1$sM可用空间，而该功能需要SD卡预留%2$sM的可用空间</string>
+    <string name="imei">移动通信国际识别码</string>
+    <string name="imei_invalid">无效</string>
+</resources>

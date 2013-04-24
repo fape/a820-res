@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hľadať</string>
+    <string name="search_widget">Hľadať</string>
+    <string name="remove_from_history">Odstrániť z histórie vyhľadávania</string>
+    <string name="remove_from_history_failed">Nepodarilo sa odstrániť položku z histórie</string>
+    <string name="corpus_selection_heading">Hľadať</string>
+    <string name="corpus_label_global">Všetko</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Vyhľadávanie na webe, záložky a história prehliadača</string>
+    <string name="corpus_label_apps">Aplikácie</string>
+    <string name="corpus_description_apps">Názvy inštalovaných aplikácií</string>
+    <string name="corpus_hint_apps">Hľadať v Aplikáciách</string>
+    <string name="menu_settings">Nastavenia vyhľadávania</string>
+    <string name="search_settings">Nastavenia vyhľadávania</string>
+    <string name="google_settings_category_title">Vyhľadávanie Google</string>
+    <string name="device_settings_category_title">Vymazať odkazy</string>
+    <string name="system_search_category_title">Telefón</string>
+    <string name="search_sources">Vyhľadávateľné položky</string>
+    <string name="search_sources_summary">Vyberte, čo chcete v telefóne vyhľadať</string>
+    <string name="clear_shortcuts">Vymazať odkazy</string>
+    <string name="clear_shortcuts_summary">Vymazať odkazy na nedávno zvolené návrhy vyhľadávania</string>
+    <string name="clear_shortcuts_prompt">"Tento krok vymaže všetky odkazy odkazujúce na nedávno zvolené návrhy vyhľadávania.
+
+(Ak chcete vymazať históriu prehliadača, použite nastavenia prehliadača.)"</string>
+    <string name="clear_shortcuts_agree">Vymazať odkazy</string>
+    <string name="clear_shortcuts_disagree">Nevymazať odkazy</string>
+    <string name="menu_help">Pomocník</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Vyhľadávanie Google</string>
+    <string name="google_search_hint">Vyhľadávanie Google</string>
+    <string name="google_search_description">Návrhy Vyhľadávania Google</string>
+    <string name="voice_search_hint_title">Skúste vysloviť:</string>
+    <string name="voice_search_hint_quotation_start">„</string>
+    <string name="voice_search_hint_quotation_end">“</string>
+</resources>

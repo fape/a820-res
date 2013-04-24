@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Європа</item>
+        <item>Африка</item>
+        <item>Азія</item>
+        <item>Австралія</item>
+        <item>Тихий океан</item>
+        <item>Всі</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Цей будильник дасть сигнал менше ніж через 1 хвилину з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %1$s з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %2$s з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %1$s і %2$s з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %3$s з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %1$s і %3$s з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %2$s і %3$s з цього моменту.</item>
+        <item>Цей будильник дасть сигнал через %1$s&amp;lt;/xliff:g>, &amp;lt;xliff:g id=HOURS>%2$s, і %3$s з цього моменту.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+    </string-array>
+    <string-array name="snooze_times_entries">
+        <item>1 раз</item>
+        <item>3 рази</item>
+        <item>5 разів</item>
+        <item>10 разів</item>
+        <item>завжди</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Вимк.</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Немає</item>
+        <item>Повторення сигналу</item>
+        <item>Припинити</item>
+    </string-array>
+</resources>

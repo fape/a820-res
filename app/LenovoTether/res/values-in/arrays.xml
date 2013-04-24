@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ap_security">
+        <item>Buka</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Memindai…</item>
+        <item>Menyambung…</item>
+        <item>Mengotentikasi…</item>
+        <item>Mendapatkan alamat IP…</item>
+        <item>Tersambung</item>
+        <item>Ditangguhkan</item>
+        <item>Memutuskan sambungan…</item>
+        <item>Terputus</item>
+        <item>Gagal</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Memindai…</item>
+        <item>Menyambung ke %1$s…</item>
+        <item>Mengotentikasi dengan %1$s…</item>
+        <item>Mendapatkan alamat IP dari %1$s…</item>
+        <item>Tersambung ke %1$s</item>
+        <item>Ditangguhkan</item>
+        <item>Memutus sambungan dari %1$s…</item>
+        <item>Terputus</item>
+        <item>Gagal</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Buka</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Sertifikat WAPI</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tschertga</string>
+    <string name="search_widget">Tschertga</string>
+    <string name="corpus_selection_heading">Tschertga</string>
+    <string name="corpus_label_global">Tut</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">\"Tschertga en il web, segnapaginas e cronologia dal navigatur\"</string>
+    <string name="corpus_label_apps">Applicaziuns</string>
+    <string name="corpus_description_apps">Nums da las applicaziuns installadas</string>
+    <string name="corpus_hint_apps">Tschertgar en las applicaziuns</string>
+    <string name="menu_settings">Parameters da tschertgar</string>
+    <string name="search_settings">Parameters da tschertgar</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Funtaunas</string>
+    <string name="search_sources_summary">Tscherna da las funtaunas che duain vegnir retschertgadas</string>
+    <string name="clear_shortcuts">Stizzar las scursanidas</string>
+    <string name="clear_shortcuts_summary">Stizzar las scursanidas a propostas da tschertga utilisadas dacurt</string>
+    <string name="clear_shortcuts_prompt">"\"Tut las scursanidas a propostas da tschertga tschernidas dacurt vegnan stizzadas.
+
+(Per stizzar la cronologia dal navigatur, utilisai ils parameters dal navigatur.)\""</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Tschertga Google</string>
+    <string name="google_search_hint">Tschertga Google</string>
+    <string name="voice_search_hint_quotation_start">«</string>
+    <string name="voice_search_hint_quotation_end">»</string>
+</resources>

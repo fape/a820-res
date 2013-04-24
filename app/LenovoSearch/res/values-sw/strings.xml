@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tafuta</string>
+    <string name="search_widget">Tafuta</string>
+    <string name="remove_from_history">Ondoa kwa historia ya kutafuta</string>
+    <string name="remove_from_history_failed">Haikuweza kuondoa kipengee kutoka kwenye historia</string>
+    <string name="corpus_selection_heading">Tafuta</string>
+    <string name="corpus_label_global">Zote</string>
+    <string name="corpus_label_web">Wavuti</string>
+    <string name="corpus_description_web">Utafutaji wa wavuti, alamisho na historia ya kivinjari</string>
+    <string name="corpus_label_apps">Programu</string>
+    <string name="corpus_description_apps">Majina ya programu zilizowekwa</string>
+    <string name="corpus_hint_apps">Tafuta Programu</string>
+    <string name="menu_settings">Mipangilio ya utafutaji</string>
+    <string name="search_settings">Mipangilio ya utafutaji</string>
+    <string name="google_settings_category_title">Utafutaji wa Google</string>
+    <string name="device_settings_category_title">Futa njia za mkato</string>
+    <string name="system_search_category_title">Simu</string>
+    <string name="search_sources">Vipengee vinavyoweza kutafutwa</string>
+    <string name="search_sources_summary">Chagua cha kutafuta kwenye simu</string>
+    <string name="clear_shortcuts">Ondoa njia za mkato</string>
+    <string name="clear_shortcuts_summary">Futa njia za mkato za mapendekezo yaliyochaguliwa ya utafutaji wa hivi karibuni</string>
+    <string name="clear_shortcuts_prompt">"Hii itafuta njia zote za mkato za mapendekezo ya utafutaji yaliyochaguliwa hivi karibuni.
+
+(Kufuta historia ya Kivinjari chako, tumia mipangilio ya Kivinjari.)"</string>
+    <string name="clear_shortcuts_agree">Futa njia za mkato</string>
+    <string name="clear_shortcuts_disagree">Usifute njia za mkato</string>
+    <string name="menu_help">Msaada</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Utafutaji wa Google</string>
+    <string name="google_search_hint">Utafutaji wa Google</string>
+    <string name="google_search_description">Mapendekezo ya Utafutaji wa Google</string>
+    <string name="voice_search_hint_title">Jaribu kusema:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

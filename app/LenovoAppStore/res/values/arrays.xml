@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ratings">
+        <item>这个应用不行，还得多加加油呀！</item>
+        <item>只能凑合用，赶紧提升一下吧！</item>
+        <item>一般一般，世界第三！</item>
+        <item>好应用，力荐力荐！</item>
+        <item>该应用简直“神”来之作，强烈推荐！</item>
+    </string-array>
+    <string-array name="permission_array">
+        <item>此应用需要以下权限</item>
+        <item>显示隐藏的权限列表</item>
+    </string-array>
+    <string-array name="stars">
+        <item>5星</item>
+        <item>4星</item>
+        <item>3星</item>
+        <item>2星</item>
+        <item>1星</item>
+    </string-array>
+    <string-array name="status">
+        <item>安装</item>
+        <item>待安装</item>
+        <item>运行</item>
+        <item>已安装</item>
+    </string-array>
+</resources>

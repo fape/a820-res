@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pushfrequency">
+        <item>Real-time push</item>
+        <item>Every thirty minutes</item>
+        <item>Every one hour</item>
+        <item>Every two hour</item>
+    </string-array>
+    <string-array name="pushfrequencyvalue">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="filelimit">
+        <item>5 MB</item>
+        <item>10 MB</item>
+        <item>20 MB</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="filelimitvalue">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pushcontent">
+        <item>只推送列表</item>
+        <item>推送列表并推送内容</item>
+    </string-array>
+    <string-array name="pushrequire">
+        <item>无条件推送</item>
+        <item>只在联接了WLAN时推送</item>
+        <item>只在充电时推送</item>
+        <item>在充电和联接了WLAN时推送</item>
+    </string-array>
+    <string-array name="pushrequirevalue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

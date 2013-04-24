@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LenovoSOS</string>
+    <string name="switcher">SOS</string>
+    <string name="switch_on">ON</string>
+    <string name="switch_off">OFF</string>
+    <string name="help">Help</string>
+    <string name="set_tel_number">Set contact number</string>
+    <string name="set_messages">Set messages</string>
+    <string name="default_messages">I am in danger! Help!</string>
+    <string name="introduce">Introduce:</string>
+    <string name="introduce_info">Emergency operator: After you have set the contact, you can press volume hard key for a long time when device is in lock-screen state with backlight on. And your location thumbnail and text message will be sent to people you have set by MMS.</string>
+    <string name="edit_number">Edit number</string>
+    <string name="edit_message">Edit message</string>
+    <string name="recent_sos">"Recent SOS: "</string>
+    <string name="sos_failed">failed!</string>
+    <string name="address_header">"Address: "</string>
+    <string name="number_invalid">Number is invalid!</string>
+    <string name="introduce_title">SOS</string>
+    <string name="introduce_title1">1. How to Set：</string>
+    <string name="introduce_summary1">"\u00091) You can input number by yourself. Or you can also press the button right of the number edit box and pick number from contacts.
+ \u00092) The inputs should be a valid phone number.
+ \u00093) You can edit the predefine message. It could be empty."</string>
+    <string name="introduce_title2">2. Start the application：</string>
+    <string name="introduce_summary2">\u0009Press the On Button.</string>
+    <string name="introduce_title3">3. How to use：</string>
+    <string name="introduce_summary3">\u0009In emergency, you can press volume hard key for a long time(until you receive a vibration feedback) when device is in lock-screen state with backlight on. And your location thumbnail and text message will be sent to people you have set by MMS. When the MMS has been sent successfully, there will be a short vibration. Or a long vibration for failed.</string>
+    <string name="introduce_title4">4. Stop the application:</string>
+    <string name="introduce_summary4">\u0009Press the Off Button.</string>
+    <string name="declaration">Declaration</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="declaration_context">"\u0009Friendly reminder from Lenovo：Please read this declaration carefully before using this production. You could choose to use or not use this production.But if you choose to use this production, we will consider that you accept all declarations below.
+
+ \u00091. This is an auxiliary production.There will be deviation in location or delayed received depending on network or your environment.So we can't guarantee it will work fine at any situation.
+
+ \u00092. LenovoSOS will produce data flow, the flow of costs is not charged by Lenovo, but by your carrier.
+
+ \u00093. Lenovo is not responsible for the effectiveness of the product or any direct or indirect consequences by using."</string>
+</resources>

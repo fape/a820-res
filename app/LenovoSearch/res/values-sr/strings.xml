@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Претрага</string>
+    <string name="search_widget">Претрага</string>
+    <string name="remove_from_history">Уклони из историје претраге</string>
+    <string name="remove_from_history_failed">Није било могуће уклонити ставку из историје</string>
+    <string name="corpus_selection_heading">Претрага</string>
+    <string name="corpus_label_global">Све</string>
+    <string name="corpus_label_web">Веб</string>
+    <string name="corpus_description_web">Веб претрага, обележивачи и историја прегледача</string>
+    <string name="corpus_label_apps">Апликације</string>
+    <string name="corpus_description_apps">Називи инсталираних апликација</string>
+    <string name="corpus_hint_apps">Претражите Google Apps</string>
+    <string name="menu_settings">Подешавања претраге</string>
+    <string name="search_settings">Подешавања претраге</string>
+    <string name="google_settings_category_title">Google претрага</string>
+    <string name="device_settings_category_title">Обриши пречице</string>
+    <string name="system_search_category_title">Телефон</string>
+    <string name="search_sources">Претраживе ставке</string>
+    <string name="search_sources_summary">Изаберите шта желите да претражите на телефону</string>
+    <string name="clear_shortcuts">Брисање пречица</string>
+    <string name="clear_shortcuts_summary">Брисање пречица до недавно изабраних предлога за претрагу</string>
+    <string name="clear_shortcuts_prompt">"Овим бришете све пречице до недавно изабраних предлога за претрагу.
+
+(Да бисте избрисали историју прегледача, користите подешавања прегледача.)"</string>
+    <string name="clear_shortcuts_agree">Обриши пречице</string>
+    <string name="clear_shortcuts_disagree">Не бриши пречице</string>
+    <string name="menu_help">Помоћ</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Google претрага</string>
+    <string name="google_search_hint">Google претрага</string>
+    <string name="google_search_description">Предлози Google претраге</string>
+    <string name="voice_search_hint_title">Покушајте да кажете:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

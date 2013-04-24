@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">חיפוש</string>
+    <string name="search_widget">חיפוש</string>
+    <string name="remove_from_history">הסר מהיסטוריית החיפושים</string>
+    <string name="remove_from_history_failed">לא ניתן להסיר פריט מההיסטוריה</string>
+    <string name="corpus_selection_heading">חפש</string>
+    <string name="corpus_label_global">הכל</string>
+    <string name="corpus_label_web">אינטרנט</string>
+    <string name="corpus_description_web">"'חיפוש Google', סימניות והיסטוריית דפדפן"</string>
+    <string name="corpus_label_apps">Google Apps</string>
+    <string name="corpus_description_apps">שמות של יישומים מותקנים</string>
+    <string name="corpus_hint_apps">חפש ב-Google Apps</string>
+    <string name="menu_settings">הגדרות חיפוש</string>
+    <string name="search_settings">הגדרות חיפוש</string>
+    <string name="google_settings_category_title">חיפוש Google</string>
+    <string name="device_settings_category_title">נקה קיצורי דרך</string>
+    <string name="system_search_category_title">טלפון</string>
+    <string name="search_sources">פריטים שניתן לערוך בהם חיפוש</string>
+    <string name="search_sources_summary">בחר מה לחפש בטלפון</string>
+    <string name="clear_shortcuts">מחק קיצורי דרך</string>
+    <string name="clear_shortcuts_summary">מחק קיצורי דרך להצעות חיפוש שנבחרו לאחרונה</string>
+    <string name="clear_shortcuts_prompt">"פעולה זו תמחק את כל קיצורי הדרך להצעות חיפוש שנבחרו לאחרונה.
+
+(כדי למחוק את היסטוריית הדפדפן, השתמש בהגדרות הדפדפן.)"</string>
+    <string name="clear_shortcuts_agree">נקה קיצורים</string>
+    <string name="clear_shortcuts_disagree">אל תמחק קיצורי דרך</string>
+    <string name="menu_help">עזרה</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">חיפוש Google</string>
+    <string name="google_search_hint">חיפוש Google</string>
+    <string name="google_search_description">ההצעות של חיפוש Google</string>
+    <string name="voice_search_hint_title">נסה לומר:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="log_config_array">
+        <item>User define</item>
+        <item>Call</item>
+    </string-array>
+</resources>

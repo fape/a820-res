@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AlarmMonitorService!</string>
+    <string name="app_name">Lenovo PowerSaving</string>
+    <string name="str_check_title">Battery calibration</string>
+    <string name="str_check_finish">Calibrated successfully</string>
+    <string name="whatisit">What is battery calibration?</string>
+    <string name="ok">I knew now</string>
+    <string name="str_action_desc">"1) Fully discharge the battery until its power level is down to under 15, 
+ 2) Connect the charger to your phone, 
+ 3) Click Battery Calibration button, 
+ 4) Charge the battery until power level up to 100, remove the charger, and the battery capacity data is refreshed now."</string>
+    <string name="str_function_desc">"Do you notice that your battery capacity is getting less and availability time is getting shorter after being used for certain period of time?
+ The battery calibration function is designed to solve this problem by aligning its status back to normal. It makes your battery more durable and its data more accurate. 
+
+ Note: Do not remove the charger during battery calibration. The calibration may fail."</string>
+    <string name="str_check_warning_00">Calibrating……</string>
+    <string name="str_check_warning_01">Fully discharge the battery until its power level is down to under 15,then start calibrating it by connecting with it the charger.</string>
+    <string name="str_check_warning_02">Fully discharge the battery until its power level is down to under 15,then start calibrating it.</string>
+    <string name="str_check_warning_03">Please start calibrating the battery by connecting it with the charger.</string>
+    <string name="str_check_warning_04">Start calibrating. Note: Do not remove the charger during battery calibration. The calibration may fail.</string>
+    <string name="str_check_warning_05">Battery calibration failed, please re-run the process.</string>
+    <string name="str_check_warning_06">Battery calibration completed successfully and battery status data has been refreshed.</string>
+    <string name="startcheck_ok">OK</string>
+    <string name="startcheck_cancel">Cancel</string>
+    <string name="child_app_title">Lockscreen network-disconnected whitelist</string>
+    <string name="child_app_desc">Chosen application is running in the background, the lockscreen will not disconnect the network</string>
+    <string name="temporary_no_app">No application temporarily</string>
+    <string name="app_list_title">Alarm application authority list</string>
+    <string name="alarm_monitor_on_all">All On</string>
+    <string name="alarm_monitor_off_all">All Off</string>
+    <string name="alarm_monitor_clean_log">Clear Log</string>
+    <string name="alarm_monitor_log_pass">pass</string>
+    <string name="alarm_monitor_log_block">bolck</string>
+    <string name="alarm_monitor_log_item">%1$s backgroud running。</string>
+    <string name="alarm_monitor_app_tip">Preventing application timer from being activated can save more power for the phone, but may affect normal operation of the application.</string>
+    <string name="alarm_protected_whitelist_add">Lockscreen sleep list</string>
+    <string name="alarm_protected_whitelist_check">Chosen application is not allowed to start up in the background under lockscreen</string>
+    <string name="alarm_temporary_no_app">No application temporarily</string>
+    <string name="alarm_temporary_no_log">No record temporarily</string>
+    <string name="alarm_app_deleted">Application had been deleted.</string>
+    <string name="new_sim">New SIM</string>
+    <string name="protected_whitelist_add">Lockscreen cleaning</string>
+    <string name="protected_whitelist_check">Chosen application will not be cleared under lockscreen</string>
+    <string name="qd">@*android:string/yes</string>
+    <string name="qx">@*android:string/no</string>
+    <string name="settring_battery_5">5%</string>
+    <string name="settring_battery_10">10%</string>
+    <string name="settring_battery_15">15%</string>
+    <string name="settring_battery_20">20%</string>
+    <string name="settring_battery_25">25%</string>
+    <string name="settring_battery_30">30%</string>
+    <string name="battery_app">Lenovo PowerSaving</string>
+    <string name="batterymenu_sett">Settings</string>
+    <string name="battery_statusbar_switch">Show percentage icon</string>
+    <string name="battery_statusbar_desinfo">show percentage battery icon in status bar</string>
+    <string name="battery_pattern_auto_into">Pattern auto switch</string>
+    <string name="battery_pattern_low_power_value">When the power is</string>
+    <string name="battery_pattern_auto_into_sett_success">SwitchPatternSetting</string>
+    <string name="battery_pattern_sett_01">Screen brightness</string>
+    <string name="battery_pattern_sett_02">Screen Timeout</string>
+    <string name="battery_pattern_sett_04">WLAN settings</string>
+    <string name="battery_pattern_sett_05">Bluetooth settings</string>
+    <string name="battery_pattern_sett_07">GPS settings</string>
+    <string name="battery_pattern_sett_08">Auto-sync</string>
+    <string name="battery_pattern_sett_10">Haptic feedback</string>
+    <string name="battery_pattern_sett_12">MenuLight Settings</string>
+    <string name="function_describ_screenbrightness">Adjust the background brightness of the screen</string>
+    <string name="function_describ_screentime">Adjust the delay before the screen automatically turns off</string>
+    <string name="function_describ_dataconn">Set up and manage data connection</string>
+    <string name="function_describ_wlan">Switch ON WLAN connection</string>
+    <string name="function_describ_bluetooth">Switch ON Bluetooth connectivity</string>
+    <string name="function_describ_gps">Use GPS satellites</string>
+    <string name="function_describ_autosync">Application sync data automatically</string>
+    <string name="function_describ_touchScene">Vibrate when pressing soft keys and on certain UI interactions</string>
+    <string name="function_describ_backlight">Enable light on Touch Button</string>
+    <string name="pattern_longstandby">Extreme</string>
+    <string name="pattern_common">Common Pattern</string>
+    <string name="pattern_alarm">AlarmPattern</string>
+    <string name="pattern_myself">Normal</string>
+    <string name="pattern_custom">Custom</string>
+    <string name="pattern_longstandby_desc">Disable all wireless connectivity, etc.</string>
+    <string name="pattern_custom_desc">Customize your own pattern</string>
+    <string name="patternchanged_title">Modify Pattern</string>
+    <string name="patternchanged_ok">OK</string>
+    <string name="patternchanged_cancel">Cancel</string>
+    <string name="patternchanged_long_desc">This pattern will disable all wireless connectivity, adjust brightness settings, etc. Continue?</string>
+    <string name="patternchanged_myself_desc">Current settings will be changed, data connection will be enabled. Data charges may apply. Continue?</string>
+    <string name="patternchanged_custom_desc">Current settings will be changed to your preferred pattern. Continue?</string>
+    <string name="currentPattern_desc">Current pattern: %1$s</string>
+    <string name="patternCompare_screenbrightness">Screen Brightness</string>
+    <string name="patternCompare_screentime">Screen Timeout</string>
+    <string name="patternCompare_dataconn">Data Connection</string>
+    <string name="patternCompare_wlan">WLAN</string>
+    <string name="patternCompare_bluetooth">Bluetooth</string>
+    <string name="patternCompare_gps">GPS</string>
+    <string name="patternCompare_autosync">Auto Sync</string>
+    <string name="patternCompare_touchScene">Touch Sense</string>
+    <string name="patternCompare_backlight">Backlight</string>
+    <string name="patternCompare_callmessage">Phone Call, SMS</string>
+    <string name="patternCompare_brightness_auto">Auto</string>
+    <string name="patternCompare_screen_1">%1$dmins</string>
+    <string name="patternCompare_screen_2">%1$dsecs</string>
+    <string name="patternCompare_value_on">On</string>
+    <string name="patternCompare_value_off">Off</string>
+    <string name="pattern_currentSetting">Current setting</string>
+    <string name="pattern_select">Choose pattern</string>
+    <string name="pattern_reset">Reset</string>
+    <string name="tv_battery_current_pattern">Current:</string>
+    <string name="tv_battery_status_charging">Charging:</string>
+    <string name="tv_battery_status_nocharging">Using:</string>
+    <string name="tv_battery_level_desc">Current level:</string>
+    <string name="battery_notify_setting">Message notification</string>
+    <string name="battery_notify_setting_desc">Disable screen light when message is received.</string>
+    <string name="battery_stats_on_battery">battery on ： %1$s</string>
+    <string name="battery_stats_on_battery_1_1_1">battery on ：%1$dh %2$dm%3$ds</string>
+    <string name="battery_stats_on_battery_0_1_1">battery on ：%1$dm%2$ds</string>
+    <string name="battery_stats_on_battery_0_0_1">battery on ：%1$ds</string>
+    <string name="battery_stats_duration">Battery_stats_duration</string>
+    <string name="battery_stats_charging_label">Charging</string>
+    <string name="battery_stats_screen_on_label">Screen on</string>
+    <string name="battery_stats_gps_on_label">GPS on</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_stats_wake_lock_label">Awake</string>
+    <string name="battery_stats_phone_signal_label">Phone signal</string>
+    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
+    <string name="details_subtitle">Use details</string>
+    <string name="controls_subtitle">Adjust power use</string>
+    <string name="packages_subtitle">Included packages</string>
+    <string name="power_screen">Display</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="power_bluetooth">Bluetooth</string>
+    <string name="power_cell">Cell standby</string>
+    <string name="power_phone">Voice calls</string>
+    <string name="power_idle">Phone idle</string>
+    <string name="usage_type_cpu">CPU total</string>
+    <string name="usage_type_cpu_foreground">CPU foreground</string>
+    <string name="usage_type_wake_lock">Keep awake</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">WLAN running</string>
+    <string name="usage_type_data_send">Data sent</string>
+    <string name="usage_type_data_recv">Data received</string>
+    <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Time on</string>
+    <string name="usage_type_no_coverage">Time without a signal</string>
+    <string name="battery_action_app_details">Application info</string>
+    <string name="battery_desc_voice">Battery used by voice calls</string>
+    <string name="battery_desc_standby">Battery used when phone is idle</string>
+    <string name="battery_desc_radio">Battery used by cell radio</string>
+    <string name="battery_sugg_radio">Switch to airplane mode to save power in areas with no cell coverage</string>
+    <string name="battery_desc_display">Battery used by the display and backlight</string>
+    <string name="battery_sugg_display">Reduce the screen brightness and/or screen timeout</string>
+    <string name="battery_desc_wifi">Battery used by WLAN</string>
+    <string name="battery_sugg_wifi">Turn off WLAN when not in used or when it is not available</string>
+    <string name="battery_desc_bluetooth">Battery used by bluetooth</string>
+    <string name="battery_sugg_bluetooth_basic">Turn off Bluetooth when not in used or when it is not available</string>
+    <string name="battery_desc_apps">Battery used by application</string>
+    <string name="battery_sugg_apps_info">Stop or uninstall the application</string>
+    <string name="battery_sugg_apps_gps">Manually control GPS to prevent application from using it</string>
+    <string name="menu_stats_last_unplugged">menu_stats_last_unplugged</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="process_mediaserver_label">Mediaserver</string>
+    <string name="cancel">@*android:string/cancel</string>
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
+    <string name="battery_history_seconds">%1$ds</string>
+    <string name="force_stop">force_stop</string>
+    <string name="security_settings_title">security_settings_title</string>
+    <string name="display_settings">display settings</string>
+    <string name="wifi_settings">WLAN settings</string>
+    <string name="bluetooth_settings">bluetooth settings</string>
+    <string name="radio_controls_title">Wireless &amp; networks</string>
+    <string name="automatic_brightness">automatic brightness</string>
+    <string name="time_use_01_title">Standby available</string>
+    <string name="time_use_02_title">Call available</string>
+    <string name="time_use_03_title">WLAN available</string>
+    <string name="time_use_04_title">3G available</string>
+    <string name="time_use_05_title">Music available</string>
+    <string name="time_use_06_title">Video available</string>
+    <string name="time_use_01_info">%1$sh%2$sm</string>
+    <string name="time_use_02_info">%1$sm</string>
+    <string name="time_use_battery_status">%1$sh%2$sm</string>
+    <string name="time_use_battery_status2">%1$sm</string>
+    <string name="time_supply_battery_status">%1$sh%2$sm</string>
+    <string name="time_supply_battery_status2">%1$sm</string>
+    <string name="gemini_default_sim_never">close</string>
+    <string name="gemini_data_connection">Data connection</string>
+    <string name="gemini_3g_indic">gemini_3g_indic</string>
+    <string name="menu_app_info">App Use</string>
+    <string name="complete_quit_app">Quit Application</string>
+    <string name="complete_quit_msg_1_1">It is smart pattern，the function that auto into smart pattern when low battery is opened, are you sure to quit this application？</string>
+    <string name="complete_quit_msg_1_0">The function that auto into smart pattern when low battery is opened, are you sure to quit this application？</string>
+    <string name="complete_quit_msg_0_1">Pattern will be disabled. Are you sure to quit？</string>
+    <string name="complete_quit_msg_0_0">Are you sure to quit this application？</string>
+    <string name="dialog_ok">@*android:string/ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_title">Message</string>
+    <string name="bs_name_10000">Contacts</string>
+    <string name="app_help_info">"
+ Battery Saving is an application developed and owned by Lenovo for Android mobile phones. This smart application helps to monitor battery status, power consumption statistics for both hardware and software applications and to control battery usage. 
+
+ The statistics / data provided on this application is for user's reference only. Lenovo has the right to interpret any given information on this application. 
+
+ The specific functionality of this software are as follows: 
+
+ 1. On this app, the main screen shows the information and the current level of the battery status and the estimated standby time of your phone. From this screen, you may also switch your preferred battery pattern. 
+
+ 2. This application shows the battery usage and statistics of most used applications. 
+
+ 3. This application also shows the statistics of the hardware which uses the battery. 
+
+ 4. Choose whether to activate or deactivate \"Switch Battery Pattern\" function. You may also set your desired power value. When battery reached the value you have set, it will automatically switch in to your chosen Pattern. 
+
+ 5. User have an option whether to show or not to show the battery percentage icon on the status bar."</string>
+    <string name="menu_wlan">WLAN</string>
+    <string name="menu_data">Data</string>
+    <string name="menu_light">Bright</string>
+    <string name="menu_synchro">Sync</string>
+    <string name="menu_gps">Gps</string>
+    <string name="menu_screenout">Timeout</string>
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_touch">Touch</string>
+    <string name="menu_backlight">Backlight</string>
+    <string name="menu_scaledown">Speed</string>
+    <string name="time_bottom_txt">Standby</string>
+    <string name="call_bottom_txt">Call</string>
+    <string name="music_bottom_txt">Music</string>
+    <string name="video_bottom_txt">Video</string>
+    <string name="wireless_bottom_txt">Wireless</string>
+    <string name="dataconn_bottom_txt">Data</string>
+    <string name="timeleft_txt">App’s available time</string>
+    <string name="battery_statue_txt">Status info</string>
+    <string name="timeleft_txt_value">Expected life time:</string>
+    <string name="timeleft_unit_txt">(Unit: Hour)</string>
+    <string name="battery_statue_1_1">Status</string>
+    <string name="battery_statue_1_2">Excellent</string>
+    <string name="battery_statue_2_1">Power level:</string>
+    <string name="battery_statue_2_2">98%</string>
+    <string name="battery_statue_3_1">Temperature:</string>
+    <string name="battery_statue_3_2">29 Celsius degree</string>
+    <string name="battery_statue_4_1">Voltage:</string>
+    <string name="battery_statue_4_2">9999V</string>
+    <string name="timeleft_txt_value_real">79 hours 36 minutes</string>
+    <string name="setting_text_3">Set to %1$s</string>
+    <string name="batterytab1_txt">Usage</string>
+    <string name="battery_health_unknown">UNKNOWN</string>
+    <string name="battery_health_good">Good</string>
+    <string name="battery_health_overheat">Overheat</string>
+    <string name="battery_health_dead">Failure</string>
+    <string name="battery_health_over_voltage">Over voltage</string>
+    <string name="battery_health_unspecified_failure">Unspecified error</string>
+    <string name="battery_health_cold">Overcool</string>
+    <string name="widget_4_1">PowerSaving(4x1)</string>
+    <string name="estimate">Estimate</string>
+    <string name="software">Software</string>
+    <string name="hardware">Hardware</string>
+    <string name="setting_text_calibrate">Battery calibration</string>
+    <string name="hour">Hrs</string>
+    <string name="minute">Min</string>
+    <string name="power">Power</string>
+    <string name="File_About">About</string>
+    <string name="File_CheckUpdate">Upgrade</string>
+    <string name="File_CompanyNet">Website: www.lenovo.com</string>
+    <string name="File_CustomerService">Service Tel: 4008188818</string>
+    <string name="File_AboutInfoPre">PowerSaving for Android</string>
+    <string name="File_version">version:</string>
+    <string name="File_AboutInfoSuffix">"Lenovo Inc all rights reserved
+Copyright © 2012 Lenovo"</string>
+    <string name="replayquota" />
+    <string name="string_percent">%</string>
+    <string name="lcd_auto_sett_title">Automatic backlight curve</string>
+    <string name="lcd_auto_sett_summary">Automatic backlight effect regulation</string>
+    <string name="lcd_auto_sett_list_title_01">Standard</string>
+    <string name="lcd_auto_sett_list_title_02">Performance</string>
+    <string name="lcd_auto_sett_list_title_03">Smart</string>
+    <string name="line_mode">Low power switching mode</string>
+    <string name="line_mode_tips">When low power when switching mode</string>
+    <string name="line_mode_inner_power">Settings electricity</string>
+    <string name="line_mode_inner_mode">Low electric mode</string>
+    <string name="line_time_select">Time period of switching mode</string>
+    <string name="line_time_select_tips">In the designated period, automatic switching mode</string>
+    <string name="line_time_select_inner_time">Time period of switching mode</string>
+    <string name="line_time_select_inner_mode">In the designated period, automatic switching mode</string>
+    <string name="line_app_kill">Lock screen cleaning</string>
+    <string name="line_app_kill_tips">Lock screen to be automatic cleaning background power application</string>
+    <string name="line_app_kill_inner_list">Lock screen clean whitelist</string>
+    <string name="line_app_kill_inner_list_tips">Added to the whitelist, the application of the lock screen will not be clean</string>
+    <string name="line_net_cut">Lock screen network</string>
+    <string name="line_net_cut_tips">The lock screen countless according to flow, automatic disconnect network</string>
+    <string name="line_net_cut_inner_list">The lock screen broken network whitelist</string>
+    <string name="line_net_cut_inner_list_tips">Added to the white list applications, lock screen can be networking</string>
+    <string name="line_alarm">Screen dormancy</string>
+    <string name="line_alarm_tips">The lock screen into dormancy, reduce the standby power consumption</string>
+    <string name="line_alarm_inner_list">The lock screen dormancy blacklist</string>
+    <string name="line_alarm_inner_list_tips">Added to the blacklist, the application of the lock screen will be stop wake up</string>
+    <string name="line_notification">Notice-board display</string>
+    <string name="line_notification_tips">Display the notice-board power percentage icon</string>
+    <string name="line_device">Time switch machine</string>
+    <string name="line_device_tips" />
+    <string name="line_void">Avoid Power Key Mis-Touch</string>
+    <string name="line_void_tips">when mobile in pocket,automatic turn scrren off while power key is mis-touched.</string>
+    <string name="line_about">About</string>
+    <string name="line_about_tips" />
+    <string name="health_str_check_title">Health charge</string>
+    <string name="health_whatisit">the battery knowledge theater ?</string>
+    <string name="health_fast">Quick charge</string>
+    <string name="health_fast_ing">Charging…</string>
+    <string name="health_fast_wait">Waiting…</string>
+    <string name="health_fast_complete">Quick charge complete</string>
+    <string name="health_extra">Trickle charge</string>
+    <string name="health_extra_wait">Waiting…</string>
+    <string name="health_extra_ing">Charging…</string>
+    <string name="health_extra_complete">Battery is full</string>
+    <string name="health_desc_fast">At this stage, the constant current mode will quickly battery charge to 80%, but still need to undertake supplementary charge can have full.</string>
+    <string name="health_desc_extra">At this stage, gradually reduce charging current, constant voltage mode the battery to 100%. This stage battery voltage will remain in a stable value.</string>
+    <string name="select_start">Starting time</string>
+    <string name="select_end">End time</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Please open the WLAN!</string>
+    <string name="SUS_MSG_LATESTVERSION">The version is latest!</string>
+    <string name="SUS_MSG_NOTFOUND">Not found!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Network unavailable!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Update pengding!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download complete!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Update exception,please retry!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Never prompt</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Prompt when find a new version</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Insufficient storage space!</string>
+    <string name="SUS_VERSIONUPDATE">Find the new version!</string>
+    <string name="SUS_UPDATEDESC">Describe:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Name:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Size:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">recommend download with WLAN!</string>
+    <string name="SUS_UPDATE">Update</string>
+    <string name="SUS_CANCEL">Cancel</string>
+    <string name="SUS_DOWNLOAD_TITLE">SUS downloading</string>
+    <string name="SUS_CANCELBUTTON">Cancel</string>
+    <string name="SUS_NOTIFICATION_TITLE">Prompt</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Update pengding...</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Network time-out,update retrying...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Continue</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abort</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(The dialog will hide after</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">seconds.)</string>
+    <item type="string" name="APKTOOL_DUMMY_0150">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0151">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0152">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0153">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0154">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0155">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0157">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0158">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0159">false</item>
+    <item type="string" name="APKTOOL_DUMMY_015a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_015b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_015c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_015d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_015e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_015f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0160">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0161">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0163">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0164">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0165">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0167">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0168">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0169">false</item>
+    <item type="string" name="APKTOOL_DUMMY_016a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_016b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_016c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_016d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_016e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_016f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0171">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0173">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0174">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0175">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0176">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0177">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0178">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0179">false</item>
+    <item type="string" name="APKTOOL_DUMMY_017a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_017b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_017c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_017d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_017e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_017f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0180">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0181">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0182">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0183">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0184">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0185">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0186">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0187">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0188">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0189">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_018f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0190">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0191">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0192">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01aa">false</item>
+</resources>

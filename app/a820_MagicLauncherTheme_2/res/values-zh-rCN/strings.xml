@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">乐桌面主题二</string>
+    <string name="apply_theme">是否应用该主题？</string>
+    <string name="download_msg">没有发现乐桌面，需要安装乐桌面或卸载本主题？</string>
+    <string name="install_desktop">安装乐桌面</string>
+    <string name="uninstall_theme">卸载本主题</string>
+    <string name="download_title">开始下载</string>
+    <string name="download_failed">下载失败</string>
+</resources>

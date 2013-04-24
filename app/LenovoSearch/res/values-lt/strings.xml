@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ieškoti</string>
+    <string name="search_widget">Ieškoti</string>
+    <string name="remove_from_history">Pašalinti iš paieškos istorijos</string>
+    <string name="remove_from_history_failed">Nepavyko pašalinti elemento iš istorijos</string>
+    <string name="corpus_selection_heading">Ieškoti</string>
+    <string name="corpus_label_global">Visi</string>
+    <string name="corpus_label_web">Žiniatinklis</string>
+    <string name="corpus_description_web">Paieška žiniatinklyje, žymės ir naršyklės istorija</string>
+    <string name="corpus_label_apps">„Apps“</string>
+    <string name="corpus_description_apps">Įdiegtų programų pavadinimai</string>
+    <string name="corpus_hint_apps">Ieškoti „Apps“</string>
+    <string name="menu_settings">Paieškos nustatymai</string>
+    <string name="search_settings">Paieškos nustatymai</string>
+    <string name="google_settings_category_title">„Google“ paieška</string>
+    <string name="device_settings_category_title">Išval. sparč. klav.</string>
+    <string name="system_search_category_title">Telefonas</string>
+    <string name="search_sources">Galimi ieškoti elementai</string>
+    <string name="search_sources_summary">Pasirinkite, ko ieškosite telefone</string>
+    <string name="clear_shortcuts">Išvalyti sparčiuosius klavišus</string>
+    <string name="clear_shortcuts_summary">Išvalyti pasirinktų paieškos pasiūlymų sparčiuosius klavišus</string>
+    <string name="clear_shortcuts_prompt">"Bus išvalyti visi paskutiniu metu pasirinkti paieškos pasiūlymų spartieji klavišai.
+
+(Jei norite išvalyti naršyklės istoriją, naudokite naršyklės nustatymus.)"</string>
+    <string name="clear_shortcuts_agree">Išval. sparč. klav.</string>
+    <string name="clear_shortcuts_disagree">Neišvalyti sparčiųjų klavišų</string>
+    <string name="menu_help">Pagalba</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">„Google“ paieška</string>
+    <string name="google_search_hint">„Google“ paieška</string>
+    <string name="google_search_description">„Google“ paieškos siūlymai</string>
+    <string name="voice_search_hint_title">Pabandykite pasakyti:</string>
+    <string name="voice_search_hint_quotation_start">„</string>
+    <string name="voice_search_hint_quotation_end">“</string>
+</resources>

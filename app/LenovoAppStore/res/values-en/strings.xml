@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appstore_name">LenovoStore</string>
+    <string name="appsearch_name">SearchApps</string>
+    <string name="appmanage_name">AppManager</string>
+</resources>

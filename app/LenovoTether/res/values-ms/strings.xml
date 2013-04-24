@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot peribadi</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurasi hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">SSID:%1$s\u0009keselamatan:%2$s</string>
+    <string name="wifi_tether_configure_ssid_default">Hotspot Android</string>
+    <string name="wifi_tether_ssid_too_long">SSID tidak boleh lebih panjang daripada 32 aksara</string>
+    <string name="wifi_tether_settings_title_both">Hotspot peribadi</string>
+    <string name="wifi_tether_person_ap_checked_title">Hotspot peribadi</string>
+    <string name="wifi_tether_person_ap_checked_summary">Pengguna lain boleh berkongsi Internet menerusi WLAN dengan mencari tetapan SSID anda</string>
+    <string name="wifi_tether_person_ap_unchecked_summary">Kongsi sambungan Internet 3G telefon anda pada komputer anda dan peranti lain dengan mendayakan fungsi ini. Bayaran data boleh dikenakan oleh pembekal rangkaian semasa anda.</string>
+    <string name="wifi_tether_settings_title">Tetapan hotspot WLAN mudah alih</string>
+    <string name="wifi_tether_settings_summary_no_set">Konfigurasi SSID、Keselamatan、Kata laluan</string>
+    <string name="wifi_tether_configure_subtext_new">SSID:%1$s\u0009Keselamatan:%2$s\u0009Kata laluan:%3$s</string>
+    <string name="wifi_tether_settings_wifi_intro_title">Melalui WLAN</string>
+    <string name="wifi_tether_settings_bluetooth_intro_title">Melalui Bluetooth</string>
+    <string name="wifi_tether_settings_bluetooth_intro_summary">1、Pasangkan telefon dan komputer 2、Pastikan Bluetooth dihidupkan dan pilih sambungan Bluetooth 3、Sambungkan telefon ke komputer melalui Bluetooth</string>
+    <string name="wifi_tether_settings_wifi_intro_summary">"1、Pada komputer anda, sediakan titik akses daripada senarai perkhidmatan rangkaian. 
+2、Semasa digesa, masukkan kata laluan 
+3、Anda boleh mengkonfigurasi titik akses dan kata laluan dalam Mengkonfigurasi WLAN"</string>
+    <string name="wifi_tether_settings_usb_intro_title">Melalui USB</string>
+    <string name="wifi_tether_settings_usb_intro_summary">"1、Sambungkan telefon ke komputer dengan kabel data 
+ 2、Pilih titik akses daripada senarai perkhidmatan jika tetapan
+ 3、Anda tidak boleh melekapkan kad SD telefon anda pada komputer anda semasa USB ditambat 
+ 4、Penambatan berfungsi dengan Windows Vista, Windows 7 dan Linux"</string>
+    <string name="wifi_tether_settings_function_summary">Ciri-ciri</string>
+    <string name="tether_select_title">Sila pilih</string>
+    <string name="tether_select_wifi">Gunakan Sambungan WLAN</string>
+    <string name="tether_select_bluetooth">Gunakan Sambungan Bluetooth</string>
+    <string name="tether_select_usb">Gunakan Sambungan USB</string>
+    <string name="tether_select_usb_connected">Disambungkan</string>
+    <string name="tether_select_usb_disconnected">Tidak disambungkan</string>
+    <string name="tether_settings_title_usb">Penambatan</string>
+    <string name="tether_settings_title_wifi">Hotspot mudah alih</string>
+    <string name="tether_settings_title_both">Penambatan &amp; hotspot mudah alih</string>
+    <string name="tether_settings_summary_usb">Kongsi sambungan data mudah alih telefon anda melalui USB</string>
+    <string name="tether_settings_summary_wifi">Kongsi sambungan mudah alih telefon anda sebagai hotspot WLAN mudah alih</string>
+    <string name="tether_settings_summary_both">Kongsi sambungan data mudah alih telefon anda melalui USB atau sebagai hotspot WLAN mudah alih</string>
+    <string name="wifi_cancel">Batal</string>
+    <string name="wifi_save">Simpan</string>
+    <string name="wifi_starting">Menghidupkan…</string>
+    <string name="wifi_stopping">Mematikan…</string>
+    <string name="wifi_secured">Dilindungi dengan %1$s</string>
+    <string name="wifi_secured_with_status">%2$s, Dilindungi dengan %1$s</string>
+    <string name="wifi_not_in_range">Tidak berada dalam julat</string>
+    <string name="wifi_error">Ralat</string>
+    <string name="wifi_disabled">Dinyahdayakan</string>
+    <string name="wifi_remembered">Diingati</string>
+    <string name="wifi_ssid">SSID Rangkaian</string>
+    <string name="wifi_security">Keselamatan</string>
+    <string name="wifi_password">Kata laluan</string>
+    <string name="wifi_show_password">Tunjukkan kata laluan.</string>
+    <string name="wifi_tether_person_ap_usb_checked_summary">Peranti akses Internet boleh disambungkan ke Internet menerusi telefon mudah alih anda</string>
+    <string name="credentials_password_too_short">Kata laluan mesti mengandungi sekurang-kurangnya 8 aksara.</string>
+    <string name="bluetooth_tethering_errored_subtext">Tidak ditambat</string>
+    <string name="wifi_channel">Saluran Pilihan</string>
+    <string name="wifi_channel_width">Lebar Saluran</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="wifi_security_wapi_certificate">Sijil WAPI</string>
+    <string name="wifi_security_none">Tiada</string>
+    <string name="bluetooth_tether_ok_summary">Pengguna lain boleh berkongsi Internet menerusi Bluetooth</string>
+    <string name="tethered_notification_title">Hotspot peribadi dimulakan</string>
+    <string name="tethered_notification_message">Sentuh untuk mengkonfigurasi</string>
+    <string name="tether_usb_adb_hit">sila nyahdayakan nyahpepijat usb</string>
+</resources>

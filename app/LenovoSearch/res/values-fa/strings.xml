@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جستجو</string>
+    <string name="search_widget">جستجو</string>
+    <string name="remove_from_history">حذف از سابقه جستجو</string>
+    <string name="remove_from_history_failed">نمی‌توان مورد را از سابقه حذف کرد</string>
+    <string name="corpus_selection_heading">جستجو</string>
+    <string name="corpus_label_global">همه</string>
+    <string name="corpus_label_web">وب</string>
+    <string name="corpus_description_web">جستجوی وب، نشانک ها و سابقه جستجو</string>
+    <string name="corpus_label_apps">برنامه های کاربردی</string>
+    <string name="corpus_description_apps">نام های برنامه های نصب شده</string>
+    <string name="corpus_hint_apps">جستجوی Apps</string>
+    <string name="menu_settings">تنظیمات جستجو</string>
+    <string name="search_settings">تنظیمات جستجو</string>
+    <string name="google_settings_category_title">جستجوی Google</string>
+    <string name="device_settings_category_title">پاک کردن میانبرها</string>
+    <string name="system_search_category_title">تلفن</string>
+    <string name="search_sources">موارد قابل جستجو</string>
+    <string name="search_sources_summary">انتخاب چیزی که باید در گوشی جستجو شود</string>
+    <string name="clear_shortcuts">پاک کردن میانبرها</string>
+    <string name="clear_shortcuts_summary">پاک کردن میانبرهای پیشنهادات جستجوی انتخاب شده اخیر</string>
+    <string name="clear_shortcuts_prompt">"این همه میانبرهای پیشنهادات جستجوی انتخاب شده اخیر را پاک می کند 
+
+ (برای پاک کردن سابقه مرورگر، از تنظیمات مرورگر استفاده کنید.)"</string>
+    <string name="clear_shortcuts_agree">پاک کردن میانبرها</string>
+    <string name="clear_shortcuts_disagree">میانبرها پاک نشود</string>
+    <string name="menu_help">راهنما</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">جستجوی Google</string>
+    <string name="google_search_hint">جستجوی Google</string>
+    <string name="google_search_description">پیشنهادات جستجوی Google</string>
+    <string name="voice_search_hint_title">بگویید:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

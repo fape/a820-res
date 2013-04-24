@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">個人熱點</string>
+    <string name="wifi_tether_configure_ap_text">配置 WLAN 熱點</string>
+    <string name="wifi_tether_configure_subtext">SSID:%1$s\u0009安全性:%2$s</string>
+    <string name="wifi_tether_configure_ssid_default">Android 熱點</string>
+    <string name="wifi_tether_ssid_too_long">SSID不能超過32個字符長度</string>
+    <string name="wifi_tether_settings_title_both">個人熱點</string>
+    <string name="wifi_tether_person_ap_checked_title">個人熱點</string>
+    <string name="wifi_tether_person_ap_checked_summary">其他的用戶可以通過“WLAN”查找您設置的SSID進行共享網絡</string>
+    <string name="wifi_tether_person_ap_unchecked_summary">打開“個人熱點”，使其他設備通過您手機的網絡進行互聯網連接。這將會對手機產生壹定的流量費用。</string>
+    <string name="wifi_tether_settings_title">配置“WLAN“熱點</string>
+    <string name="wifi_tether_settings_summary_no_set">設置SSID、安全性、密碼</string>
+    <string name="wifi_tether_configure_subtext_new">SSID:%1$s\u0009安全性:%2$s\u0009密碼:%3$s</string>
+    <string name="wifi_tether_settings_wifi_intro_title">通過WLAN連接</string>
+    <string name="wifi_tether_settings_bluetooth_intro_title">通過藍牙連接</string>
+    <string name="wifi_tether_settings_bluetooth_intro_summary">"1、將手機與電腦配對
+2、選擇使用藍牙連接，並確認已打開藍牙
+3、通過藍牙將手機連接電腦"</string>
+    <string name="wifi_tether_settings_wifi_intro_summary">"1、在您的電腦上，從設置的網絡服務列表中選擇您設置的接入點。
+2、提示時輸入密碼
+3、您可以在“配置WLAN”中進行配置接入點以及密碼"</string>
+    <string name="wifi_tether_settings_usb_intro_title">通過USB連接</string>
+    <string name="wifi_tether_settings_usb_intro_summary">"1、將手機通過數據線和電腦連接
+2、從設置的網絡服務列表中選擇您設置的接入點
+3、在USB連接期間，您無法在計算機上安裝 手機的SD卡
+4、綁定只適用於Windows Vista、Windows 7和Linux"</string>
+    <string name="wifi_tether_settings_function_summary">功能介紹</string>
+    <string name="tether_select_title">請選擇連接的方式</string>
+    <string name="tether_select_wifi">使用WLAN連接</string>
+    <string name="tether_select_bluetooth">使用藍牙連接</string>
+    <string name="tether_select_usb">使用USB連接</string>
+    <string name="tether_select_usb_connected">已連接數據線</string>
+    <string name="tether_select_usb_disconnected">未連接數據線</string>
+    <string name="tether_settings_title_usb">綁定</string>
+    <string name="tether_settings_title_wifi">便攜式熱點</string>
+    <string name="tether_settings_title_both">綁定與便攜式熱點</string>
+    <string name="tether_settings_summary_usb">將您手機的移動數據連接通過 USB 分享</string>
+    <string name="tether_settings_summary_wifi">將您手機的移動連接作為便攜式 WLAN 熱點分享</string>
+    <string name="tether_settings_summary_both">將您手機的移動數據連接通過 USB 或作為便攜式 WLAN 熱點分享</string>
+    <string name="wifi_cancel">取消</string>
+    <string name="wifi_save">保存</string>
+    <string name="wifi_starting">正在打開...</string>
+    <string name="wifi_stopping">正在關閉...</string>
+    <string name="wifi_secured">通過 %1$s 進行保護</string>
+    <string name="wifi_secured_with_status">%2$s，通過 %1$s 進行保護</string>
+    <string name="wifi_not_in_range">不在範圍內</string>
+    <string name="wifi_error">出錯</string>
+    <string name="wifi_disabled">已停用</string>
+    <string name="wifi_remembered">已保存</string>
+    <string name="wifi_ssid">網酪 SSID</string>
+    <string name="wifi_security">安全性</string>
+    <string name="wifi_password">密碼</string>
+    <string name="wifi_show_password">顯示密碼。</string>
+    <string name="wifi_tether_person_ap_usb_checked_summary">USB連接的上網設備可以通過您的手機上網了</string>
+    <string name="credentials_password_too_short">密碼至少應包含 8 個字符。</string>
+    <string name="bluetooth_tethering_errored_subtext">未啟動網路共享</string>
+    <string name="wifi_security_wapi_certificate">WAPI 憑證</string>
+    <string name="bluetooth_tether_ok_summary">其他的用戶可以通過藍牙查找您的藍牙設備進行共享網絡</string>
+    <string name="tethered_notification_title">個人熱點已啟用</string>
+    <string name="tethered_notification_message">輕觸以設定</string>
+    <string name="tether_usb_adb_hit">請關閉USB偵錯</string>
+</resources>

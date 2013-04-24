@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Αναζήτηση</string>
+    <string name="search_widget">Αναζήτηση</string>
+    <string name="remove_from_history">Κατάργηση από το ιστορικό αναζήτησης</string>
+    <string name="remove_from_history_failed">Αδύν.η κατάργ.στοιχ.από ιστορικό</string>
+    <string name="corpus_selection_heading">Αναζήτηση</string>
+    <string name="corpus_label_global">Όλα</string>
+    <string name="corpus_label_web">Ιστός</string>
+    <string name="corpus_description_web">Αναζήτηση στον ιστό, σελιδοδείκτες και ιστορικό προγράμματος περιήγησης</string>
+    <string name="corpus_label_apps">Εφαρμογές Google</string>
+    <string name="corpus_description_apps">Ονόματα εγκατεστημένων εφαρμογών</string>
+    <string name="corpus_hint_apps">Αναζήτηση στις Εφαρμογές Google</string>
+    <string name="menu_settings">Ρυθμίσεις αναζήτησης</string>
+    <string name="search_settings">Ρυθμίσεις αναζήτησης</string>
+    <string name="google_settings_category_title">Αναζήτηση Google</string>
+    <string name="device_settings_category_title">Εκκαθ. συντομεύσεων</string>
+    <string name="system_search_category_title">Τηλέφωνο</string>
+    <string name="search_sources">Στοιχεία με δυνατότητα αναζήτησης</string>
+    <string name="search_sources_summary">Επιλέξτε το αντικείμενο αναζήτησης στο τηλέφωνο</string>
+    <string name="clear_shortcuts">Εκκαθάριση συντομεύσεων</string>
+    <string name="clear_shortcuts_summary">Εκκαθάριση συντομεύσεων για αποτελέσματα αναζήτησης που έχουν επιλεχθεί πρόσφατα</string>
+    <string name="clear_shortcuts_prompt">"Με αυτή την ενέργεια πραγματοποιείται εκκαθάριση όλων των συντομεύσεων για τα αποτελέσματα αναζήτησης που επιλέχθηκαν πρόσφατα.
+
+(Για να πραγματοποιήσετε εκκαθάριση του ιστορικού του προγράμματος περιήγησης, χρησιμοποιήστε τις ρυθμίσεις του προγράμματος περιήγησης)."</string>
+    <string name="clear_shortcuts_agree">Εκκαθάριση συντομεύσεων</string>
+    <string name="clear_shortcuts_disagree">Χωρίς εκκαθάριση συντομεύσεων</string>
+    <string name="menu_help">Βοήθεια</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Αναζήτηση Google</string>
+    <string name="google_search_hint">Αναζήτηση Google</string>
+    <string name="google_search_description">Προτάσεις αναζήτησης Google</string>
+    <string name="voice_search_hint_title">Δοκιμάστε να πείτε το εξής:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

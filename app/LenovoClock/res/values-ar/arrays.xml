@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>أمريكا</item>
+        <item>أوروبا</item>
+        <item>أفريقيا</item>
+        <item>آسيا</item>
+        <item>أستراليا</item>
+        <item>الباسفيك</item>
+        <item>الكل</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>تم ضبط هذا التنبيه على أقل من دقيقة من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %1$s من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %2$s من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %1$s و%2$s من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %3$s من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %1$s و%3$s من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %2$s و%3$s من الآن.</item>
+        <item>تم ضبط هذا التنبيه على %1$s&amp;lt;/xliff:g> و&amp;lt;xliff:g id=HOURS>%2$sو%3$s من الآن.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>خمس دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+    </string-array>
+    <string-array name="snooze_times_entries">
+        <item>مرة واحدة</item>
+        <item>3 مرات</item>
+        <item>5 مرات</item>
+        <item>10 مرات</item>
+        <item>دائمًا</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>إيقاف</item>
+        <item>خمس دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>لا يوجد</item>
+        <item>غفوة</item>
+        <item>رفض</item>
+    </string-array>
+</resources>

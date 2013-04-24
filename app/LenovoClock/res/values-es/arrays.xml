@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>América</item>
+        <item>Europa</item>
+        <item>África</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Pacífico</item>
+        <item>Todo</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Esta alarma está establecida para menos de 1 minuto a partir de ahora.</item>
+        <item>Esta alarma está establecida para %1$s a partir de ahora.</item>
+        <item>Esta alarma está establecida para %2$s a partir de ahora.</item>
+        <item>Esta alarma está establecida para %1$s y %2$s a partir de ahora.</item>
+        <item>Esta alarma está establecida para %3$s a partir de ahora.</item>
+        <item>Esta alarma está establecida para %1$s y %3$s a partir de ahora.</item>
+        <item>Esta alarma está establecida para %2$s y %3$s a partir de ahora.</item>
+        <item>Esta alarma está establecida para %1$s, %2$s y %3$s a partir de ahora.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="snooze_times_entries">
+        <item>1 vez</item>
+        <item>3 veces</item>
+        <item>5 veces</item>
+        <item>10 veces</item>
+        <item>siempre</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Desactivado</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Ninguno</item>
+        <item>Repetición</item>
+        <item>Descartar</item>
+    </string-array>
+</resources>

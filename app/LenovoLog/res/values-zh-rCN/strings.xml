@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileLog</string>
+    <string name="LogPosition">存储位置</string>
+    <string name="phone">手机</string>
+    <string name="sdcard">存储卡</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="propfail">没有属性，啥也做不了</string>
+    <string name="qxdmstarted">ModemLog正在运行</string>
+    <string name="status">MobileLog状态</string>
+    <string name="started">MobileLog正在运行</string>
+    <string name="qxdmhint">请先按照 http://xmswid/moin 中文章 \"QxdmToSd\" 进行设置</string>
+    <string name="logSizeLimit">占用空间上限 (兆字节)</string>
+    <string name="availableSpace">剩余空间</string>
+    <string name="mb">兆字节</string>
+    <string name="nosdcard">请插入存储卡</string>
+    <string name="logconfig">配置</string>
+    <string name="OperationFailed">操作失败</string>
+</resources>

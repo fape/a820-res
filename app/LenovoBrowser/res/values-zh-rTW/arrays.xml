@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>yahoo_tw</item>
+        <item>bing_zh_TW</item>
+    </string-array>
+    <string-array name="search_engines_cmcc">
+        <item>baidu</item>
+        <item>cmcc_zh_TW</item>
+    </string-array>
+    <string-array name="search_engines_lenovo">
+        <item>baidu</item>
+        <item>yahoo_tw</item>
+        <item>bing_zh_TW</item>
+    </string-array>
+    <string-array name="lenovo_bookmarks">
+        <item>聯想官網</item>
+        <item>http://www.lenovo.com.cn</item>
+        <item>百度</item>
+        <item>http://www.baidu.com/</item>
+        <item>新浪</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>淘寶</item>
+        <item>http://www.taobao.com</item>
+    </string-array>
+    <string-array name="pref_force_screen_lock_choices">
+        <item>跟隨系統</item>
+        <item>橫屏鎖定</item>
+        <item>豎屏鎖定</item>
+    </string-array>
+    <string-array name="pref_download_path_choices">
+        <item>默認地址</item>
+        <item>自定義地址</item>
+    </string-array>
+    <string-array name="predefined_recommend_default">
+        <item>百度</item>
+        <item>http://www.baidu.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>新浪</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>site_navigation_default_default4</item>
+        <item>搜狐</item>
+        <item>http://www.sohu.com/</item>
+        <item>site_navigation_default_default5</item>
+        <item>雅虎</item>
+        <item>http://www.yahoo.com/</item>
+        <item>site_navigation_default_default6</item>
+    </string-array>
+    <string-array name="pref_useragents_choices">
+        <item>默認顯示</item>
+        <item>安卓顯示</item>
+        <item>IPhone顯示</item>
+        <item>電腦顯示</item>
+    </string-array>
+    <string-array name="predefined_websites_default_optr">
+        <item>Hao123</item>
+        <item>http://www.hao123.com/</item>
+        <item>site_navigation_default_default1</item>
+        <item>百度</item>
+        <item>http://www.baidu.com/</item>
+        <item>site_navigation_default_default3</item>
+        <item>新浪</item>
+        <item>http://www.sina.com.cn/</item>
+        <item>site_navigation_default_default4</item>
+        <item>搜狐</item>
+        <item>http://www.sohu.com/</item>
+        <item>site_navigation_default_default5</item>
+        <item>雅虎</item>
+        <item>http://www.yahoo.com/</item>
+        <item>site_navigation_default_default6</item>
+    </string-array>
+    <string-array name="pref_op02_text_encoding_choices">
+        <item>自動檢測</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Unicode (UTF-16)</item>
+        <item>中文 (GB2312)</item>
+        <item>中文 (GBK)</item>
+        <item>中文 (Big5)</item>
+        <item>日文 (ISO-2022-JP)</item>
+        <item>日文 (SHIFT_JIS)</item>
+        <item>日文 (EUC-JP)</item>
+        <item>韓文 (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>等寬</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>目前網頁</item>
+        <item>空白網頁</item>
+        <item>預設網頁</item>
+        <item>常用網站</item>
+        <item>網站導覽</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>永遠開啟</item>
+        <item>隨選</item>
+        <item>關閉</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>目前網頁</item>
+        <item>空白網頁</item>
+        <item>預設網頁</item>
+        <item>常用網站</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>最小</item>
+        <item>小</item>
+        <item>適中</item>
+        <item>大</item>
+        <item>最大</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>遠</item>
+        <item>中</item>
+        <item>近</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Unicode (UTF-16)</item>
+        <item>中文 (GB2312)</item>
+        <item>中文 (GBK)</item>
+        <item>中文 (Big5)</item>
+        <item>日文 (ISO-2022-JP)</item>
+        <item>日文 (SHIFT_JIS)</item>
+        <item>日文 (EUC-JP)</item>
+        <item>韓文 (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>永不載入</item>
+        <item>僅限 Wi-Fi 連線時載入</item>
+        <item>一律載入</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>一律不預先載入</item>
+        <item>僅限 Wi-Fi 連線時載入</item>
+        <item>一律預先載入</item>
+    </string-array>
+</resources>

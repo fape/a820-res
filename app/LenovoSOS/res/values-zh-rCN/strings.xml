@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">报警求救</string>
+    <string name="switcher">遇险报警求救</string>
+    <string name="switch_on">开启</string>
+    <string name="switch_off">关闭</string>
+    <string name="help">帮助</string>
+    <string name="set_tel_number">设置遇险紧急联系号码</string>
+    <string name="set_messages">预置文本内容</string>
+    <string name="default_messages">我遇到危险了，救救我！</string>
+    <string name="introduce">应急说明：</string>
+    <string name="introduce_info">遇险应急：设定好联系人后，需要在背光亮起的锁屏状态下长按音量上键， 即可将您所在的地理位置图片和预置的文本信息一起以彩信的形式发送到您预设的联系人号码中。</string>
+    <string name="edit_number">紧急号码编辑</string>
+    <string name="edit_message">信息内容编辑</string>
+    <string name="recent_sos">上次报警求救：</string>
+    <string name="sos_failed">失败</string>
+    <string name="address_header">地址：</string>
+    <string name="number_invalid">不符合要求，请输入正确的手机号码！</string>
+    <string name="introduce_title">报警求救操作步骤</string>
+    <string name="introduce_title1">1、如何设置：</string>
+    <string name="introduce_summary1">"\u00091) 您可以手动输入号码，也可以在输入框的右边点击联系人头像，从联系人列表中添加号码；
+ \u00092) 手动输入号码，必须满足11位手机号码，且符合手机号码的规则；
+ \u00093) 默认一条紧急求救文本内容，点击可支持修改，亦可为空。"</string>
+    <string name="introduce_title2">2、启动报警求救应用：</string>
+    <string name="introduce_summary2">\u0009点击“启动”按钮，系统自动判断填写的号码是否符合要求，若不符合，则弹出提示；若符合则直接启动报警求救应用。</string>
+    <string name="introduce_title3">3、如何使用报警求救应用：</string>
+    <string name="introduce_summary3">\u0009在紧急情况下，需要在背光亮起的锁屏状态下长按音量上键(直到振动提示后才可松开)， 系统自动将您所在的地理位置图片和预置的文本信息一起以彩信的形式发送到您预设的联系人号码中；报警信息发送成功后，会短振动提示，失败则长振动提示。</string>
+    <string name="introduce_title4">4、取消报警求救应用</string>
+    <string name="introduce_summary4">\u0009点击“取消”按钮，刚将您设置的报警求救应用取消。</string>
+    <string name="declaration">免责声明</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="declaration_context">"\u0009联想提醒您：在使用报警求救前，请您务必仔细阅读并透彻理解本声明。您可以选择不使用本产品，但如果您使用本产品，您的使用行为将被视为对本声明全部内容的认可。
+
+ \u00091、报警求救是辅助产品，容易受到网络状态或所处环境的影响，导致定位的偏差和对方接收延时，无法确保任何情况下都能生效；
+
+ \u00092、启动报警求救功能时，会产生数据流量，此流量费用不为联想所收取，由运营商收取相应的流量费用；
+
+ \u00093、联想不负责该产品的有效性，联想不对在使用该产品中产生的任何直接或间接后果负责。"</string>
+</resources>

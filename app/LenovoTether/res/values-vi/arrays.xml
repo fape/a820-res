@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ap_security">
+        <item>Mở</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Đang dò…</item>
+        <item>Đang kết nối…</item>
+        <item>Đang xác nhận…</item>
+        <item>Đang nhận địa chỉ IP…</item>
+        <item>Đã kết nối</item>
+        <item>Đã tạm dừng</item>
+        <item>Đang ngắt kết nối…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Ko thành công</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Đang dò…</item>
+        <item>Đang kết nối với %1$s…</item>
+        <item>Đang xác nhận với %1$s…</item>
+        <item>Đang nhận địa chỉ IP từ %1$s…</item>
+        <item>Đã kết nối với %1$s</item>
+        <item>Đã tạm dừng</item>
+        <item>Đang ngắt kết nối từ %1$s…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Ko thành công</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Mở</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Giấy phép WAPI</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iskanje</string>
+    <string name="search_widget">Iskanje</string>
+    <string name="remove_from_history">Odstrani iz zgodovine iskanja</string>
+    <string name="remove_from_history_failed">Elementa ni bilo mogoče odstraniti iz zgodovine</string>
+    <string name="corpus_selection_heading">Iskanje</string>
+    <string name="corpus_label_global">Vse</string>
+    <string name="corpus_label_web">Splet</string>
+    <string name="corpus_description_web">Spletno iskanje, zaznamki in zgodovina brskalnika</string>
+    <string name="corpus_label_apps">Google Aplikacije</string>
+    <string name="corpus_description_apps">Imena nameščenih programov</string>
+    <string name="corpus_hint_apps">Iskanje po Google Aplikacijah</string>
+    <string name="menu_settings">Nastavitve iskanja</string>
+    <string name="search_settings">Nastavitve iskanja</string>
+    <string name="google_settings_category_title">Iskanje Google</string>
+    <string name="device_settings_category_title">Počisti bližnjice</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Elementi, ki jih je mogoče preiskati</string>
+    <string name="search_sources_summary">Izberite, kaj želite iskati v telefonu</string>
+    <string name="clear_shortcuts">Počisti bližnjice</string>
+    <string name="clear_shortcuts_summary">Počisti bližnjice do nazadnje izbranih predlogov iskanja</string>
+    <string name="clear_shortcuts_prompt">"To dejanje počisti vse bližnjice do nazadnje izbranih predlogov iskanja.
+
+(Če želite počistiti zgodovino brskalnika, uporabite nastavitve brskalnika.)"</string>
+    <string name="clear_shortcuts_agree">Počisti bližnjice</string>
+    <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
+    <string name="menu_help">Pomoč</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Iskanje Google</string>
+    <string name="google_search_hint">Iskanje Google</string>
+    <string name="google_search_description">Priporočila Iskanja Google</string>
+    <string name="voice_search_hint_title">Recite:</string>
+    <string name="voice_search_hint_quotation_start">»</string>
+    <string name="voice_search_hint_quotation_end">«</string>
+</resources>

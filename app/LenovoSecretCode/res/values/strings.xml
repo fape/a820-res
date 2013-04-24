@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecretCode</string>
+    <string name="show_kernel_version_title">Kernel Version</string>
+    <string name="show_internal_version_title">Internal Version</string>
+    <string name="show_external_version_title">Version</string>
+    <string name="show_modem_version_title">Modem Version</string>
+    <string name="show_sn_title">SN</string>
+    <string name="version_unavailable">Fail to get version</string>
+    <string name="factory_wipe_data">wipe user data by factory mode</string>
+    <string name="factory_wipe_data_warning">Click OK button will clear all user data, but retain the installed applications, suggest Ordinary users do not use it, to avoid losing data in the phone</string>
+    <string name="factory_wipe_data_cancel">cancel</string>
+    <string name="sdcard_not_found">factory wipe data failed</string>
+    <string name="sdcard_not_found_tip">"This feature requires the support of the SD card,
+        make sure that the available SD card inserted"</string>
+    <string name="sdcard_out_of_space">SD card is not enough space</string>
+    <string name="sdcard_out_of_space_tip">"SD only remaining %1$sM  available space, but this 
+functions require SD card has %2$sM available space"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Invalid</string>
+</resources>

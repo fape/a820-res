@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Import from call history</item>
+        <item>Import from SMS history</item>
+        <item>Import from Contacts</item>
+        <item>Manually add</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>No alert</item>
+        <item>Notification bar alert</item>
+        <item>Notification bar alert + Alert tone</item>
+        <item>Notification bar alert + Vibration</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Answer</item>
+        <item>Reject</item>
+        <item>Reject call and reply with SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>No alert</item>
+        <item>Notification bar alert</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Edit mailbox</item>
+        <item>Backup now</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Delete</item>
+        <item>Edit</item>
+        <item>Send SMS</item>
+        <item>Call</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>SMS and call</item>
+        <item>Call</item>
+        <item>SMS</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Contacts only</item>
+        <item>Whitelist only</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Import from call history</item>
+        <item>Import from SMS history</item>
+        <item>Import from Contacts</item>
+        <item>Manually add</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Smart blocking</item>
+        <item>Block blacklist only</item>
+        <item>Allow Contacts only</item>
+        <item>Allow Whitelist only</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Import from call history</item>
+        <item>Import from SMS list</item>
+        <item>Import from Contacts</item>
+        <item>Manually add</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Release this blacklist</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Add from call history</item>
+        <item>Add from Contacts</item>
+        <item>Manually add</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Add from SMS list</item>
+        <item>Add from Contacts</item>
+        <item>Manually add</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Release this blacklist</item>
+        <item>Report</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Call</item>
+        <item>Send SMS</item>
+        <item>Release this whitelist</item>
+    </string-array>
+    <string-array name="scan_health_behavior">
+        <item>Pop-up blocking</item>
+        <item>Contacts security backup</item>
+        <item>Check apps started at startup</item>
+        <item>Internal storage below 40%</item>
+        <item>Check for running apps</item>
+        <item>Scan cellphone buffer</item>
+        <item>Arbitrary charging blocker</item>
+        <item>Check for background SMS sender</item>
+        <item>Privacy protection</item>
+        <item>Check for privacy stealer</item>
+        <item>Harassment blocking</item>
+        <item>Traffic monitor</item>
+        <item>Real-time virus monitor</item>
+        <item>Cellphone anti-theft</item>
+        <item>Real-time protection over online shopping with Internet banking</item>
+        <item>Password entry protection</item>
+        <item>No metered data plan set</item>
+        <item>Virus library version</item>
+        <item>Scan for viruses</item>
+    </string-array>
+    <string-array name="optimization_health_behavior">
+        <item>Enable pop-up blocking</item>
+        <item>Contacts security backup</item>
+        <item>Startup acceleration</item>
+        <item>Memory cleaning</item>
+        <item>End running apps</item>
+        <item>Clean up cache</item>
+        <item>Enable Arbitrary charging blocker</item>
+        <item>Disable all background SMS senders</item>
+        <item>Enable privacy protection</item>
+        <item>Disable all privacy stealers</item>
+        <item>Enable harassment blocking</item>
+        <item>Traffic monitor</item>
+        <item>Real-time virus monitor</item>
+        <item>Enable cellphone anti-theft</item>
+        <item>Enable real-time protection over online shopping with Internet banking</item>
+        <item>Enable password entry protection</item>
+        <item>Metered data plan already set</item>
+        <item>Update virus library</item>
+        <item>Virus scan and clean</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>"What's the name of my class adviser in the elementary school?"</item>
+        <item>"What's my favorite fruit?"</item>
+        <item>"What day is my daddy's birthday?"</item>
+        <item>"What's my favorite song?"</item>
+        <item>"What's the name of my pet?"</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>every 10 minutes</item>
+        <item>every 20 minutes</item>
+        <item>every 30 minutes</item>
+        <item>every 1 hour</item>
+        <item>every 2 hours</item>
+        <item>every 3 hours</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ideaDesktop Theme 1</string>
+    <string name="apply_theme">Do you confirm to apply the theme?</string>
+    <string name="download_msg">Not found the IdeaDesktop,the need to install a IdeaDesktop or uninstall the theme?</string>
+    <string name="install_desktop">Install IdeaDesktop</string>
+    <string name="uninstall_theme">Uninstall the theme</string>
+    <string name="download_title">Begin to download</string>
+    <string name="download_failed">Download failed</string>
+</resources>
