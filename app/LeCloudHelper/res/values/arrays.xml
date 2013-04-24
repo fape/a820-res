@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_address_dialog">
+        <item>备份全部</item>
+        <item>仅备份变化</item>
+    </string-array>
+    <string-array name="recovery_address_dialog">
+        <item>恢复全部</item>
+        <item>仅恢复变化</item>
+    </string-array>
+    <string-array name="backupfrequency">
+        <item>every_three_hours</item>
+        <item>every_day</item>
+        <item>every_week</item>
+        <item>close_backup</item>
+    </string-array>
+    <string-array name="backupfrequencyvalue">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>通讯录</item>
+        <item>短信</item>
+        <item>通话记录</item>
+    </string-array>
+    <string-array name="app_backup_states">
+        <item>请稍候</item>
+        <item>备份中</item>
+        <item>已备份</item>
+        <item>有异常</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>取消中</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>请稍候</item>
+        <item>下载中</item>
+        <item>待安装</item>
+        <item>有异常</item>
+        <item>可更新</item>
+        <item>已安装</item>
+        <item>取消中</item>
+        <item>安装中</item>
+    </string-array>
+    <string-array name="more_pager_titles">
+        <item>文档</item>
+        <item>短信</item>
+        <item>彩信</item>
+        <item>通话记录</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>账号默认密码是什么？如何修改密码？忘记密码如何找回？</item>
+        <item>乐同步是免费的吗？</item>
+        <item>备份操作后，如何进行对数据的删除等管理操作？</item>
+        <item>乐同步与安卓备份是同一个软件么？</item>
+        <item>乐同步安全么？会不会窃取我的手机账号以及备份数据？</item>
+        <item>手机如何登出乐同步？</item>
+        <item>误删了联系人，如何找回？</item>
+        <item>备份联系人后本机联系人为什么会减少？</item>
+        <item>乐同步是否只能联想手机使用？</item>
+        <item>乐同步支持跨平台使用么？</item>
+        <item>乐同步恢复应用时，应用软件的版本是怎样的？</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"默认密码：自动注册成功后，会收到一条由联想发出的包含密码的短信。如若长时间未收到短信，请检查安全类（如乐安全、360安全卫士等）软件是否将其作为垃圾短信进行拦截。如果还是未收到短信或是短信丢失，请参考“找回密码”。 
+
+\u0009\u0009修改密码：使用电脑，登录http://cloud.lenovo.com 后修改密码。 
+
+\u0009\u0009找回密码：点击右上角的小齿轮图标【设置】，进入【账号设置】，如果现在是登录状态，请先登出，出现【忘记密码】后，点击按提示操作。"</item>
+        <item>乐同步是一款完全免费的手机软件，在下载、使用过程中产生的网络流量以及相应的费用由运营商收取。</item>
+        <item>请使用电脑访问http://cloud.lenovo.com，登录后便可对自己的备份数据进行删除、编辑、添加等管理操作。</item>
+        <item>是的。</item>
+        <item>乐同步在备份、恢复和存储时，都采用了网银级别的加密，以确保个人数据信息安全，不被泄露。</item>
+        <item>点击右上角的小齿轮图标【设置】，进入【账号设置】，点击右上角小齿轮图标（或点击手机菜单键），点击【登出】即可。</item>
+        <item>"手机误删了联系人，如果曾经备份过联系人，请使用乐同步进行【恢复通讯录】操作。 
+
+\u0009\u0009手机删除了联系人并备份到云端，造成云端联系人也丢失的情况下，请使用电脑访问http://cloud.lenovo.com登录后，在【回收站】中进行【还原】操作，成功还原后请使用乐同步进行【恢复通讯录】操作，以确保您的数据还原到手机上。"</item>
+        <item>乐同步在备份通讯录的过程中，会自动智能合并本地号码、姓名完全一致的联系人。请勿担心会造成联系人丢失。</item>
+        <item>只要您的手机是Android2.2以上、iOS5、塞班、或是支持java的手机，都有适用的版本。</item>
+        <item>支持跨平台，适用于安卓手机、塞班手机、iPhone以及支持java的手机。</item>
+        <item>恢复匹配您手机机型的最新版。</item>
+    </string-array>
+</resources>
