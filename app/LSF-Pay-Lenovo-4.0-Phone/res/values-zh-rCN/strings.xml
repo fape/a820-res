@@ -88,8 +88,6 @@
     <string name="com_lenovo_lsf_login_string_login">登录</string>
     <string name="com_lenovo_lsf_login_string_registration">注册</string>
     <string name="com_lenovo_lsf_login_string_havenoid">还没有帐号</string>
-    <string name="com_lenovo_lsf_login_string_phonelogininfo">用本手机号码作为帐号，一键完成注册登录（联想不会向您收取任何费用）。</string>
-    <string name="com_lenovo_lsf_login_string_phonelogin">一键登录</string>
     <string name="com_lenovo_lsf_login_string_forgetpwd"><u>忘记密码</u></string>
     <string name="com_lenovo_lsf_login_string_account">帐号</string>
     <string name="com_lenovo_lsf_login_string_password">密码</string>
@@ -115,7 +113,7 @@
     <string name="com_lenovo_lsf_register_string_setpwdhint">4-20个字符，区分大小写</string>
     <string name="com_lenovo_lsf_register_string_verifycodehint">请输入验证码</string>
     <string name="com_lenovo_lsf_register_string_countries">您的位置</string>
-    <string name="com_lenovo_lsf_forget_string_findpassword"><b>忘记密码</b></string>
+    <string name="com_lenovo_lsf_forget_string_findpassword">"忘记密码 "</string>
     <string name="com_lenovo_lsf_forget_string_findpasswordinfo">我们会将您的新密码发送至联想通行证的注册邮箱或手机号内</string>
     <string name="com_lenovo_lsf_forget_string_reset">密码重置</string>
     <string name="com_lenovo_lsf_change_string_changepassword">修改密码</string>
@@ -177,10 +175,10 @@
     <string name="com_lenovo_lsf_forget_password_error">操作频繁，请稍后再试</string>
     <string name="com_lenovo_lsf_app_upgrade_notification">联想服务框架升级</string>
     <string name="com_lenovo_lsf_binding_string_account">帐号：</string>
-    <string name="com_lenovo_lsf_binding_another_account"><u>绑定其他账号</u></string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>绑定其他帐号</u></string>
     <string name="com_lenovo_lsf_account_binding_welcome">欢迎,</string>
-    <string name="com_lenovo_lsf_account_binding_exists_account_description">检测到您的%1$s账号中设置邮箱已经注册联想通行证，请输入密码进行绑定</string>
-    <string name="com_lenovo_lsf_account_binding_description">将%1$s账号绑定到下面的通行证账号</string>
+    <string name="com_lenovo_lsf_account_binding_exists_account_description">检测到您的%1$s帐号中设置邮箱已经注册联想通行证，请输入密码进行绑定</string>
+    <string name="com_lenovo_lsf_account_binding_description">将%1$s帐号绑定到下面的通行证帐号</string>
     <string name="com_lenovo_lsf_account_binding_input_description">注册或输入已有联想通行证绑定</string>
     <string name="com_lenovo_lsf_account_binding_progress_description">正在绑定登录......</string>
     <string name="com_lenovo_lsf_account_link_third_accout_timeout">第三方帐号连接超时, 请重试!</string>
@@ -210,6 +208,8 @@
     <string name="com_lenovo_lsf_get_update_pkginfo_null">无法获取更新信息,请检查网络是否正常</string>
     <string name="com_lenovo_lsf_tgt_error">当前帐号已过期，请重新登录</string>
     <string name="com_lenovo_lsf_sim_error">当前手机SIM卡不可用</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_times_more_than_limit">今天自动登录次数已超过限制，请明天再使用此项操作</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_application_no_permissions">您的应用无权使用此项操作</string>
     <string name="lepay_payment_app_name">联想安全支付服务</string>
     <string name="lepay_alert_timeout_message">由于长时间没获取二次确认短信，可能是服务器繁忙或网络错误造成的，请检查您的网络状态并耐心等待确认短信。如有疑问请致电客服XXXXXXXX</string>
     <string name="lepay_alert_title4">提示</string>

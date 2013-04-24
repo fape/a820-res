@@ -89,8 +89,6 @@
     <string name="com_lenovo_lsf_login_string_login">Sign in</string>
     <string name="com_lenovo_lsf_login_string_registration">Sign up</string>
     <string name="com_lenovo_lsf_login_string_havenoid" />
-    <string name="com_lenovo_lsf_login_string_phonelogininfo" />
-    <string name="com_lenovo_lsf_login_string_phonelogin" />
     <string name="com_lenovo_lsf_login_string_forgetpwd"><u>Forgotten password?</u></string>
     <string name="com_lenovo_lsf_login_string_account">Lenovo ID</string>
     <string name="com_lenovo_lsf_login_string_password">Password</string>
@@ -211,6 +209,8 @@
     <string name="com_lenovo_lsf_get_update_pkginfo_null">Can not get update information,Please check network is ready</string>
     <string name="com_lenovo_lsf_tgt_error">The current account has expired, please login again</string>
     <string name="com_lenovo_lsf_sim_error">The Current mobile phone sim card unavailable</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_times_more_than_limit">Today auto login number already more than limit, please tomorrow to use of the operation</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_application_no_permissions">Your application has no right to use of the operation</string>
     <string name="upomp_lthj_hello">Hello World, MainActivity!</string>
     <string name="upomp_lthj_app_name">银联插件</string>
     <string name="upomp_lthj_version">1.0.0</string>
@@ -444,7 +444,7 @@
 您的密码很可能已经泄漏,建议
 您重新登录并立即修改密码"</string>
     <string name="upomp_lthj_validatePassword_complex_prompt_kind">为保证安全，请不要使用纯数字或纯字母作为密码（区分大小写字母）</string>
-    <string name="lepay_payment_app_name">联想安全支付服务</string>
+    <string name="lepay_payment_app_name">Lenovo Payment Service</string>
     <string name="lepay_alert_timeout_message">由于长时间没获取二次确认短信，可能是服务器繁忙或网络错误造成的，请检查您的网络状态并耐心等待确认短信。如有疑问请致电客服XXXXXXXX</string>
     <string name="lepay_alert_title4">提示</string>
     <string name="lepay_pay_wait">正在创建订单</string>

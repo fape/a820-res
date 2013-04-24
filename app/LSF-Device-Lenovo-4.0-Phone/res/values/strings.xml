@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="push_app_name">Device Service</string>
+    <string name="download_falied">Download failed, click to retry.</string>
+    <string name="warring_network_mobile">您当前使用的移动网络，是否继续下载</string>
+    <string name="warring_no_network">没有发现可用网络，立即设置？</string>
+    <string name="text_setupnetwork">设置Wifi</string>
 </resources>
