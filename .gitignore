@@ -1,7 +1,6 @@
 *
+!*/
 !.gitignore
-!*/values*!
 !strings.xml
 !arrays.xml
 !plurals.xml
-
