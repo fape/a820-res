@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="extra_wallpapers" />
+    <string-array name="wallpapers">
+        <item>wallpaper_285</item>
+        <item>wallpaper_242</item>
+        <item>wallpaper_186</item>
+        <item>wallpaper_187</item>
+        <item>wallpaper_189</item>
+        <item>wallpaper_267</item>
+        <item>wallpaper_268</item>
+        <item>wallpaper_272</item>
+        <item>wallpaper_276</item>
+        <item>wallpaper_277</item>
+        <item>wallpaper_278</item>
+        <item>wallpaper_286</item>
+        <item>wallpaper_287</item>
+        <item>wallpaper_288</item>
+        <item>wallpaper_289</item>
+    </string-array>
+</resources>

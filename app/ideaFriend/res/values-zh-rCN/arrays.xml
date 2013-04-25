@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>组织</item>
+        <item>备注</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>开心</item>
+        <item>忧伤</item>
+        <item>眨眼</item>
+        <item>吐舌</item>
+        <item>惊讶</item>
+        <item>亲吻</item>
+        <item>叫喊</item>
+        <item>酷</item>
+        <item>财迷</item>
+        <item>说错了话</item>
+        <item>尴尬</item>
+        <item>天使</item>
+        <item>犹豫</item>
+        <item>哭泣</item>
+        <item>保密</item>
+        <item>大笑</item>
+        <item>困惑</item>
+        <item>爱心</item>
+        <item>生气</item>
+        <item>傻笑</item>
+        <item>一本正经</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>你在哪里？</item>
+        <item>你在做什么？</item>
+        <item>急！请速回电。</item>
+        <item>抱歉，正在开会。</item>
+        <item>待会儿再回你电话。</item>
+        <item>我没事，别担心。</item>
+        <item>正在回家的路上。</item>
+        <item>我很快就到。</item>
+        <item>不见不散！</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>限制模式</item>
+        <item>警告模式</item>
+        <item>可用模式</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM字母表</item>
+        <item>Unicode</item>
+        <item>自动</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>手机</item>
+        <item>SIM 卡</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>设备</item>
+        <item>SIM 卡</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_values">
+        <item>设备</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>默认</item>
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+        <item>特大</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>直接转发</item>
+        <item>添加发件人姓名</item>
+        <item>添加发件人姓名和号码</item>
+        <item>每次询问（自动转发时按直接转发处理）</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 秒</item>
+        <item>2 秒</item>
+        <item>3 秒</item>
+        <item>4 秒</item>
+        <item>5 秒</item>
+        <item>6 秒</item>
+        <item>7 秒</item>
+        <item>8 秒</item>
+        <item>9 秒</item>
+        <item>10 秒</item>
+        <item>其他…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>始终</item>
+        <item>仅在静音时</item>
+        <item>一律不</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">靜態桌布</string>
+    <string name="wallpaper_instructions">設定桌布</string>
+    <string name="pick_wallpaper">靜態桌布</string>
+</resources>
