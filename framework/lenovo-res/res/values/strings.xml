@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
     <string name="dlg_use_ipo_confirm">Quick bootup at next booting</string>
-    <string name="storage_sd_card">SD storage</string>
-    <string name="storage_usb">USB storage</string>
-    <string name="storage_phone">USB Storage</string>
-    <string name="storage_external_usb">External USB storage</string>
+    <string name="storage_sd_card">SD-kártya</string>
+    <string name="storage_usb">USB-tár</string>
+    <string name="storage_phone">Telefon-memória</string>
+    <string name="storage_external_usb">Külső USB-tároló</string>
     <string name="ext_storage_internal_notification_title">Preparing Internal Storage</string>
     <string name="ext_storage_external_notification_title">Preparing External Storage</string>
     <string name="global_actions_toggle_open_airplane_mode_confirm">Open airplane mode.</string>

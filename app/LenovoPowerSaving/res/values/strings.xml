@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
     <string name="hello">Hello World, AlarmMonitorService!</string>
-    <string name="app_name">Lenovo PowerSaving</string>
+    <string name="app_name">E-mail</string>
     <string name="str_check_title">Battery calibration</string>
     <string name="str_check_finish">Calibrated successfully</string>
     <string name="whatisit">What is battery calibration?</string>
-    <string name="ok">I knew now</string>
+    <string name="ok">OK</string>
     <string name="str_action_desc">"1) Fully discharge the battery until its power level is down to under 15, 
  2) Connect the charger to your phone, 
  3) Click Battery Calibration button, 
@@ -39,7 +39,7 @@
     <string name="alarm_temporary_no_app">No application temporarily</string>
     <string name="alarm_temporary_no_log">No record temporarily</string>
     <string name="alarm_app_deleted">Application had been deleted.</string>
-    <string name="new_sim">New SIM</string>
+    <string name="new_sim">Új SIM</string>
     <string name="protected_whitelist_add">Lockscreen cleaning</string>
     <string name="protected_whitelist_check">Chosen application will not be cleared under lockscreen</string>
     <string name="qd">@*android:string/yes</string>
@@ -112,67 +112,67 @@
     <string name="tv_battery_level_desc">Current level:</string>
     <string name="battery_notify_setting">Message notification</string>
     <string name="battery_notify_setting_desc">Disable screen light when message is received.</string>
-    <string name="battery_stats_on_battery">battery on ： %1$s</string>
+    <string name="battery_stats_on_battery">%1$s akkumulátorról</string>
     <string name="battery_stats_on_battery_1_1_1">battery on ：%1$dh %2$dm%3$ds</string>
     <string name="battery_stats_on_battery_0_1_1">battery on ：%1$dm%2$ds</string>
     <string name="battery_stats_on_battery_0_0_1">battery on ：%1$ds</string>
-    <string name="battery_stats_duration">Battery_stats_duration</string>
-    <string name="battery_stats_charging_label">Charging</string>
-    <string name="battery_stats_screen_on_label">Screen on</string>
-    <string name="battery_stats_gps_on_label">GPS on</string>
-    <string name="battery_stats_wifi_running_label">WLAN</string>
-    <string name="battery_stats_wake_lock_label">Awake</string>
-    <string name="battery_stats_phone_signal_label">Phone signal</string>
+    <string name="battery_stats_duration">%1$s az utolsó töltés óta</string>
+    <string name="battery_stats_charging_label">Töltés</string>
+    <string name="battery_stats_screen_on_label">Bekapcsolt képernyővel</string>
+    <string name="battery_stats_gps_on_label">GPS bekapcsolva</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
+    <string name="battery_stats_wake_lock_label">Ébren</string>
+    <string name="battery_stats_phone_signal_label">Mobil hálózat jele</string>
     <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
-    <string name="details_subtitle">Use details</string>
-    <string name="controls_subtitle">Adjust power use</string>
-    <string name="packages_subtitle">Included packages</string>
-    <string name="power_screen">Display</string>
-    <string name="power_wifi">WLAN</string>
+    <string name="details_subtitle">Használat részletei</string>
+    <string name="controls_subtitle">Az energiafelhasználás beállítása</string>
+    <string name="packages_subtitle">Mellékelt csomagok</string>
+    <string name="power_screen">Képernyő</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">Bluetooth</string>
-    <string name="power_cell">Cell standby</string>
-    <string name="power_phone">Voice calls</string>
-    <string name="power_idle">Phone idle</string>
-    <string name="usage_type_cpu">CPU total</string>
-    <string name="usage_type_cpu_foreground">CPU foreground</string>
-    <string name="usage_type_wake_lock">Keep awake</string>
+    <string name="power_cell">Cella készenlét</string>
+    <string name="power_phone">Hanghívások</string>
+    <string name="power_idle">Telefon - tétlen</string>
+    <string name="usage_type_cpu">CPU teljes</string>
+    <string name="usage_type_cpu_foreground">CPU-használat az előtérben</string>
+    <string name="usage_type_wake_lock">Ébren tartás</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="usage_type_wifi_running">WLAN running</string>
-    <string name="usage_type_data_send">Data sent</string>
-    <string name="usage_type_data_recv">Data received</string>
-    <string name="usage_type_audio">Audio</string>
-    <string name="usage_type_video">Video</string>
-    <string name="usage_type_on_time">Time on</string>
-    <string name="usage_type_no_coverage">Time without a signal</string>
-    <string name="battery_action_app_details">Application info</string>
-    <string name="battery_desc_voice">Battery used by voice calls</string>
-    <string name="battery_desc_standby">Battery used when phone is idle</string>
-    <string name="battery_desc_radio">Battery used by cell radio</string>
-    <string name="battery_sugg_radio">Switch to airplane mode to save power in areas with no cell coverage</string>
-    <string name="battery_desc_display">Battery used by the display and backlight</string>
-    <string name="battery_sugg_display">Reduce the screen brightness and/or screen timeout</string>
-    <string name="battery_desc_wifi">Battery used by WLAN</string>
-    <string name="battery_sugg_wifi">Turn off WLAN when not in used or when it is not available</string>
-    <string name="battery_desc_bluetooth">Battery used by bluetooth</string>
-    <string name="battery_sugg_bluetooth_basic">Turn off Bluetooth when not in used or when it is not available</string>
-    <string name="battery_desc_apps">Battery used by application</string>
-    <string name="battery_sugg_apps_info">Stop or uninstall the application</string>
-    <string name="battery_sugg_apps_gps">Manually control GPS to prevent application from using it</string>
-    <string name="menu_stats_last_unplugged">menu_stats_last_unplugged</string>
+    <string name="usage_type_wifi_running">Wi-Fi használat</string>
+    <string name="usage_type_data_send">Elküldött adatok</string>
+    <string name="usage_type_data_recv">Fogadott adatok</string>
+    <string name="usage_type_audio">Hang</string>
+    <string name="usage_type_video">Videó</string>
+    <string name="usage_type_on_time">Bekapcsolva eltöltött idő</string>
+    <string name="usage_type_no_coverage">Jel nélkül eltelt idő</string>
+    <string name="battery_action_app_details">Alkalmazásinformáció</string>
+    <string name="battery_desc_voice">Hanghívások által felhasznált energia</string>
+    <string name="battery_desc_standby">Akkumulátorhasználat, amíg a telefon tétlen volt</string>
+    <string name="battery_desc_radio">Mobil adó által felhasznált energia</string>
+    <string name="battery_sugg_radio">Ahol nincs lefedettség, váltson repülőgép módra, hogy spóroljon az energiával</string>
+    <string name="battery_desc_display">A kijelző és a háttérfény által felhasznált energia</string>
+    <string name="battery_sugg_display">Csökkentse a képernyő fényerejét és kikapcsolási idejét</string>
+    <string name="battery_desc_wifi">Wi-Fi által felhasznált energia</string>
+    <string name="battery_sugg_wifi">Kapcsolja ki a Wi-Fit, ha nem használja, vagy amikor nincs elérhető hálózat</string>
+    <string name="battery_desc_bluetooth">Bluetooth által felhasznált energia</string>
+    <string name="battery_sugg_bluetooth_basic">Ha nem használja, kapcsolja ki a Bluetooth funkciót</string>
+    <string name="battery_desc_apps">Az alkalmazás által felhasznált energia</string>
+    <string name="battery_sugg_apps_info">Alkalmazás leállítása vagy eltávolítása</string>
+    <string name="battery_sugg_apps_gps">A GPS kézi irányítása annak megakadályozására, hogy az alkalmazások használják</string>
+    <string name="menu_stats_last_unplugged">Töltés nélkül eltöltött idő: %1$s</string>
     <string name="process_kernel_label">Android OS</string>
-    <string name="process_mediaserver_label">Mediaserver</string>
-    <string name="cancel">@*android:string/cancel</string>
-    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
-    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
-    <string name="battery_history_minutes">%1$dm %2$ds</string>
-    <string name="battery_history_seconds">%1$ds</string>
-    <string name="force_stop">force_stop</string>
-    <string name="security_settings_title">security_settings_title</string>
-    <string name="display_settings">display settings</string>
-    <string name="wifi_settings">WLAN settings</string>
-    <string name="bluetooth_settings">bluetooth settings</string>
-    <string name="radio_controls_title">Wireless &amp; networks</string>
-    <string name="automatic_brightness">automatic brightness</string>
+    <string name="process_mediaserver_label">Médiaszerver</string>
+    <string name="cancel">Mégse</string>
+    <string name="battery_history_days">%1$d n %2$d ó %3$d p %4$d mp</string>
+    <string name="battery_history_hours">%1$d ó %2$d p %3$d mp</string>
+    <string name="battery_history_minutes">%1$d p %2$d mp</string>
+    <string name="battery_history_seconds">%1$d mp</string>
+    <string name="force_stop">Kényszerített leállítás</string>
+    <string name="security_settings_title">Biztonság</string>
+    <string name="display_settings">Megjelenítés</string>
+    <string name="wifi_settings">Wi-Fi</string>
+    <string name="bluetooth_settings">Bluetooth</string>
+    <string name="radio_controls_title">Továbbiak...</string>
+    <string name="automatic_brightness">Automatikus fényerő</string>
     <string name="time_use_01_title">Standby available</string>
     <string name="time_use_02_title">Call available</string>
     <string name="time_use_03_title">WLAN available</string>
@@ -185,18 +185,18 @@
     <string name="time_use_battery_status2">%1$sm</string>
     <string name="time_supply_battery_status">%1$sh%2$sm</string>
     <string name="time_supply_battery_status2">%1$sm</string>
-    <string name="gemini_default_sim_never">close</string>
-    <string name="gemini_data_connection">Data connection</string>
-    <string name="gemini_3g_indic">gemini_3g_indic</string>
+    <string name="gemini_default_sim_never">Ki</string>
+    <string name="gemini_data_connection">Adatkapcsolat</string>
+    <string name="gemini_3g_indic">3G</string>
     <string name="menu_app_info">App Use</string>
     <string name="complete_quit_app">Quit Application</string>
     <string name="complete_quit_msg_1_1">It is smart pattern，the function that auto into smart pattern when low battery is opened, are you sure to quit this application？</string>
     <string name="complete_quit_msg_1_0">The function that auto into smart pattern when low battery is opened, are you sure to quit this application？</string>
     <string name="complete_quit_msg_0_1">Pattern will be disabled. Are you sure to quit？</string>
     <string name="complete_quit_msg_0_0">Are you sure to quit this application？</string>
-    <string name="dialog_ok">@*android:string/ok</string>
+    <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Cancel</string>
-    <string name="dialog_title">Message</string>
+    <string name="dialog_title">Adatkapcsolat váltása</string>
     <string name="bs_name_10000">Contacts</string>
     <string name="app_help_info">"
  Battery Saving is an application developed and owned by Lenovo for Android mobile phones. This smart application helps to monitor battery status, power consumption statistics for both hardware and software applications and to control battery usage. 
@@ -255,11 +255,11 @@
     <string name="widget_4_1">PowerSaving(4x1)</string>
     <string name="estimate">Estimate</string>
     <string name="software">Software</string>
-    <string name="hardware">Hardware</string>
+    <string name="hardware">Hardver</string>
     <string name="setting_text_calibrate">Battery calibration</string>
-    <string name="hour">Hrs</string>
-    <string name="minute">Min</string>
-    <string name="power">Power</string>
+    <string name="hour">1 óra</string>
+    <string name="minute">1 perc</string>
+    <string name="power">hatvány</string>
     <string name="File_About">About</string>
     <string name="File_CheckUpdate">Upgrade</string>
     <string name="File_CompanyNet">Website: www.lenovo.com</string>
@@ -268,7 +268,7 @@
     <string name="File_version">version:</string>
     <string name="File_AboutInfoSuffix">"Lenovo Inc all rights reserved
 Copyright © 2012 Lenovo"</string>
-    <string name="replayquota" />
+    <string name="replayquota"/>
     <string name="string_percent">%</string>
     <string name="lcd_auto_sett_title">Automatic backlight curve</string>
     <string name="lcd_auto_sett_summary">Automatic backlight effect regulation</string>
@@ -298,11 +298,11 @@ Copyright © 2012 Lenovo"</string>
     <string name="line_notification">Notice-board display</string>
     <string name="line_notification_tips">Display the notice-board power percentage icon</string>
     <string name="line_device">Time switch machine</string>
-    <string name="line_device_tips" />
+    <string name="line_device_tips"/>
     <string name="line_void">Avoid Power Key Mis-Touch</string>
     <string name="line_void_tips">when mobile in pocket,automatic turn scrren off while power key is mis-touched.</string>
     <string name="line_about">About</string>
-    <string name="line_about_tips" />
+    <string name="line_about_tips"/>
     <string name="health_str_check_title">Health charge</string>
     <string name="health_whatisit">the battery knowledge theater ?</string>
     <string name="health_fast">Quick charge</string>
@@ -343,72 +343,4 @@ Copyright © 2012 Lenovo"</string>
     <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abort</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(The dialog will hide after</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">seconds.)</string>
-    <item type="string" name="APKTOOL_DUMMY_0150">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0151">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0152">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0153">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0154">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0155">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0157">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0158">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0159">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0160">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0161">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0162">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0163">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0164">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0165">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0166">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0167">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0168">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0169">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0170">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0171">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0172">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0173">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0174">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0175">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0176">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0177">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0178">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0179">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0180">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0181">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0182">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0183">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0184">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0185">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0186">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0187">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0188">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0189">false</item>
-    <item type="string" name="APKTOOL_DUMMY_018a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_018b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_018c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_018d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_018e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_018f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0190">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0191">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0192">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01a9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01aa">false</item>
 </resources>

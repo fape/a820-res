@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="calendar_storage">Calendar Storage</string>
-    <string name="upgrade_msg">Upgrading Calendar database.</string>
-    <string name="calendar_default_name">Default</string>
-    <string name="calendar_info">Calendar info</string>
-    <string name="calendar_info_error">Error</string>
-    <string name="calendar_info_no_calendars">No calendars</string>
-    <string name="calendar_info_events">Events: %1$d</string>
-    <string name="calendar_info_events_dirty">Events: %1$d, Unsaved: %2$d</string>
-    <string name="provider_label">Calendar</string>
-    <string name="debug_tool_delete_button">Delete now</string>
-    <string name="debug_tool_start_button">Start</string>
-    <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the sd card/usb storage which is readable by any app and 2) email it. Remember to delete it as soon as you have successfully copied it off the device or the email is received.</string>
-    <string name="debug_tool_email_sender_picker">Select a program to send your file</string>
-    <string name="debug_tool_email_subject">Calendar Db attached</string>
-    <string name="debug_tool_email_body">Attached is my calendar database with all my appointments and personal information. Please handle with care.</string>
+    <string name="calendar_storage">Naptár tárolása</string>
+    <string name="upgrade_msg">Névjegyek adatbázisának frissítése.</string>
+    <string name="calendar_default_name">Alapértelmezett</string>
+    <string name="calendar_info">Naptárinfó</string>
+    <string name="calendar_info_error">Hiba</string>
+    <string name="calendar_info_no_calendars">Nincs naptár</string>
+    <string name="calendar_info_events">Események: %1$d</string>
+    <string name="calendar_info_events_dirty">Események: %1$d, nem mentett események: %2$d</string>
+    <string name="provider_label">Címtár</string>
+    <string name="debug_tool_delete_button">Törlés most</string>
+    <string name="debug_tool_start_button">Indítás</string>
+    <string name="debug_tool_message">Arra készül, hogy 1) másolatot készítsen a naptár adatbázisáról a bármilyen alkalmazás által olvasható SD-kártyára/USB-tárhelyre, és 2) e-mailben elküldje. Ne felejtse el azonnal törölni a másolatot, amint sikeresen átmásolta a készülékről, vagy miután az e-mail megérkezett.</string>
+    <string name="debug_tool_email_sender_picker">Válasszon programot a fájl elküldéséhez</string>
+    <string name="debug_tool_email_subject">Naptár-adatbázis mellékelve</string>
+    <string name="debug_tool_email_body">Csatolva van a naptáram adatbázisa az összes találkozómmal és személyes adataimmal. Kérem, legyenek elővigyázatosak.</string>
 </resources>
