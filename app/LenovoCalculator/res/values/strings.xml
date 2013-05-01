@@ -38,9 +38,9 @@
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Basic</string>
-    <string name="advanced">Advanced</string>
-    <string name="clear_history">Clear history</string>
-    <string name="radian_mod">radian</string>
-    <string name="angle_mod">angle</string>
+    <string name="basic">Simple calculation</string>
+    <string name="advanced">Scientific calculation</string>
+    <string name="clear_history">Clear history records</string>
+    <string name="radian_mod">Radian</string>
+    <string name="angle_mod">Degree</string>
 </resources>

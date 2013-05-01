@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="search_engines">
-        <item>baidu</item>
-        <item>google</item>
-        <item>yahoo_tw</item>
-        <item>bing_zh_TW</item>
-    </string-array>
-</resources>

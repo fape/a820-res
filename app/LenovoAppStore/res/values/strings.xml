@@ -385,9 +385,9 @@
     <string name="one_key_login_yes">一键登录</string>
     <string name="one_key_login_no">普通登录</string>
     <string name="one_key_loading">正在用您的手机号码登录</string>
-    <string name="appstore_name">乐商店</string>
-    <string name="appsearch_name">应用搜索</string>
-    <string name="appmanage_name">应用管理</string>
+    <string name="appstore_name">LenovoStore</string>
+    <string name="appsearch_name">SearchApps</string>
+    <string name="appmanage_name">AppManager</string>
     <string name="appupdate_name">应用更新</string>
     <string name="app_icon_desc">应用图标</string>
     <string name="app_snapshot_title">应用截图</string>

@@ -59,7 +59,7 @@
     <string name="chatEndUrl">live/chat/end.php?close&amp;chatid=%1$d</string>
     <string name="chatCommentUrl">jsonlive/chat/quickrating.php?chatid=%1$d</string>
     <string name="chatRobotSendMessage">jsonlive/chat/robotresponse.php?aardvark_send=&amp;aardvark_chatid=&amp;aardvark_message=%1$s</string>
-    <string name="app_name">乐服务</string>
+    <string name="app_name">LenovoService</string>
     <string name="faq_search_text">问题：</string>
     <string name="faq_title">常见问题</string>
     <string name="faq_keyword_title">热门问题关键字</string>
@@ -151,4 +151,5 @@
     <string name="intent_way">Intent方式</string>
     <string name="local">定位</string>
     <string name="local_detail">显示定位详情</string>
+	<string name="language_support_hint">Only Simplified Chinese language supported!</string>
 </resources>
